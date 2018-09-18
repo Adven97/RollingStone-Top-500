@@ -35,10 +35,12 @@
     }
 
     #info-box {
-      width: 400px;
+
+      width: 360px;
       height: 150px;
       margin: 7px;
       float: left;
+      border-radius: 12px;
     }
     #info-box2 {
       text-align: center;
@@ -48,6 +50,11 @@
       float: left;
       margin-left: 70px;
     }
+    .inside{
+      margin-left: 60px;
+      width: 1140px;
+      background-color: #10efb8;
+    }
   </style>
 
   <title></title>
@@ -56,8 +63,11 @@
 <body>
   <div id="container">
       <img src="t.png" alt="RollingStone Top 500 Albums of All Time"/>
-    <p id="lista"></p>
+    <div class="inside">
 
+
+    <p id="lista"></p>
+    </div>
   </div>
 
   <script>

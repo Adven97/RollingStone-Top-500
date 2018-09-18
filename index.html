@@ -28,6 +28,28 @@
     list-style: none;
     }
 
+a.nv:link
+{
+   color: #fff;
+   text-decoration: none;
+}
+a.nv:visited
+{
+   color: #fff;
+   text-decoration: none;
+}
+a.nv:hover
+{
+   color: #fff;
+   text-decoration: none;
+}
+a.nv:active
+{
+   color: #fff;
+   text-decoration: none;
+}
+
+
     .nom {
       color: Yellow;
       font-size: 25px;
@@ -53,7 +75,7 @@
       cursor: pointer;
       text-align: center;
       width: 1100px;
-      height: 150px;
+      height: 170px;
       margin: 7px;
       float: left;
       margin-left: 10px;
@@ -96,7 +118,9 @@
 
           if(i<20){
             kolor = Math.floor(Math.random() *899999)+100000;
+             output += '<a class="nv" href='+album[i].Website+' target="_blank">';
             output += '<div id="info-box2" class=' + i + ' style="background:#'+kolor+'">';
+        //    output += '<a href="http://facebook.com" target="_blank"></a>';
             output += '<p class="nom">' + album[i].Number + '</p>';
             output += '<ul>';
             output += '<li class="alb">' + album[i].Album + '</li>';
@@ -104,7 +128,7 @@
             output += '<li>' + "Year: " + album[i].Year + '</li>';
             output += '<li>' + "Genre: " + album[i].Genre + '</li>';
             output += '</ul>';
-            output += '</div>';
+            output += '</div></a>';
           }
           else{
             kolor = Math.floor(Math.random() *899999)+100000;

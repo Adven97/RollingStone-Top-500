@@ -6,7 +6,7 @@
       "Album": "Sgt. Pepper's Lonely Hearts Club Band",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Psychedelic Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Sgt._Pepper%E2%80%99s_Lonely_Hearts_Club_Band"
     },
     {
       "Number": 2,
@@ -14,7 +14,7 @@
       "Album": "Pet Sounds",
       "Artist": "The Beach Boys",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Psychedelic Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Pet_Sounds"
     },
     {
       "Number": 3,
@@ -22,7 +22,7 @@
       "Album": "Revolver",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Pop Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Revolver_(album)"
     },
     {
       "Number": 4,
@@ -30,7 +30,7 @@
       "Album": "Highway 61 Revisited",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Blues Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Highway_61_Revisited"
     },
     {
       "Number": 5,
@@ -38,7 +38,7 @@
       "Album": "Rubber Soul",
       "Artist": "The Beatles",
       "Genre": "Rock, Pop",
-      "Subgenre": "Pop Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Rubber_Soul"
     },
     {
       "Number": 6,
@@ -46,7 +46,7 @@
       "Album": "What's Going On",
       "Artist": "Marvin Gaye",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "https://pl.wikipedia.org/wiki/What%27s_Going_On"
     },
     {
       "Number": 7,
@@ -54,7 +54,7 @@
       "Album": "Exile on Main St.",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Exile_on_Main_St."
     },
     {
       "Number": 8,
@@ -62,7 +62,7 @@
       "Album": "London Calling",
       "Artist": "The Clash",
       "Genre": "Rock",
-      "Subgenre": "Punk, New Wave"
+      "Website": "https://pl.wikipedia.org/wiki/London_Calling"
     },
     {
       "Number": 9,
@@ -70,7 +70,7 @@
       "Album": "Blonde on Blonde",
       "Artist": "Bob Dylan",
       "Genre": "Rock, Blues",
-      "Subgenre": "Folk Rock, Rhythm & Blues"
+      "Website": "https://pl.wikipedia.org/wiki/Blonde_on_Blonde"
     },
     {
       "Number": 10,
@@ -78,7 +78,7 @@
       "Album": "The Beatles (\"The White Album\")",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Pop Rock, Psychedelic Rock, Experimental"
+      "Website": "https://pl.wikipedia.org/wiki/The_Beatles_(album)"
     },
     {
       "Number": 11,
@@ -86,7 +86,7 @@
       "Album": "The Sun Sessions",
       "Artist": "Elvis Presley",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll"
+      "Website": "https://pl.wikipedia.org/wiki/The_Sun_Sessions"
     },
     {
       "Number": 12,
@@ -94,7 +94,7 @@
       "Album": "Kind of Blue",
       "Artist": "Miles Davis",
       "Genre": "Jazz",
-      "Subgenre": "Modal"
+      "Website": "https://pl.wikipedia.org/wiki/Kind_of_Blue"
     },
     {
       "Number": 13,
@@ -102,7 +102,7 @@
       "Album": "The Velvet Underground & Nico",
       "Artist": "The Velvet Underground",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Art Rock, Experimental"
+      "Website": "https://pl.wikipedia.org/wiki/The_Velvet_Underground_%26_Nico"
     },
     {
       "Number": 14,
@@ -110,7 +110,7 @@
       "Album": "Abbey Road",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Classic Rock, Pop Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Abbey_Road"
     },
     {
       "Number": 15,
@@ -118,7 +118,7 @@
       "Album": "Are You Experienced",
       "Artist": "The Jimi Hendrix Experience",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Psychedelic Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Are_You_Experienced"
     },
     {
       "Number": 16,
@@ -126,7 +126,7 @@
       "Album": "Blood on the Tracks",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Acoustic, Ballad"
+      "Website": "https://pl.wikipedia.org/wiki/Blood_on_the_Tracks"
     },
     {
       "Number": 17,
@@ -134,7 +134,7 @@
       "Album": "Nevermind",
       "Artist": "Nirvana",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Grunge"
+      "Website": "https://pl.wikipedia.org/wiki/Nevermind"
     },
     {
       "Number": 18,
@@ -142,7 +142,7 @@
       "Album": "Born to Run",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "https://pl.wikipedia.org/wiki/Born_to_Run"
     },
     {
       "Number": 19,
@@ -150,7 +150,7 @@
       "Album": "Astral Weeks",
       "Artist": "Van Morrison",
       "Genre": "Jazz, Rock, Blues, Folk, World, & Country",
-      "Subgenre": "Acoustic, Classic Rock, Free Improvisation"
+      "Website": "https://pl.wikipedia.org/wiki/Astral_Weeks"
     },
     {
       "Number": 20,
@@ -158,7 +158,7 @@
       "Album": "Thriller",
       "Artist": "Michael Jackson",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "Disco"
+      "Website": "https://pl.wikipedia.org/wiki/Thriller_(album)"
     },
     {
       "Number": 21,
@@ -166,7 +166,7 @@
       "Album": "The Great Twenty_Eight",
       "Artist": "Chuck Berry",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll"
+      "Website": "Rock & Roll"
     },
     {
       "Number": 22,
@@ -174,7 +174,7 @@
       "Album": "The Complete Recordings",
       "Artist": "Robert Johnson",
       "Genre": "Blues",
-      "Subgenre": "Delta Blues"
+      "Website": "Delta Blues"
     },
     {
       "Number": 23,
@@ -182,7 +182,7 @@
       "Album": "John Lennon/Plastic Ono Band",
       "Artist": "John Lennon / Plastic Ono Band",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 24,
@@ -190,7 +190,7 @@
       "Album": "Innervisions",
       "Artist": "Stevie Wonder",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 25,
@@ -198,7 +198,7 @@
       "Album": "Live at the Apollo, 1962",
       "Artist": "James Brown",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 26,
@@ -206,7 +206,7 @@
       "Album": "Rumours",
       "Artist": "Fleetwood Mac",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 27,
@@ -214,7 +214,7 @@
       "Album": "The Joshua Tree",
       "Artist": "U2",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Pop Rock"
+      "Website": "Alternative Rock, Pop Rock"
     },
     {
       "Number": 28,
@@ -222,7 +222,7 @@
       "Album": "Who's Next",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Mod, Prog Rock, Psychedelic Rock"
+      "Website": "Hard Rock, Mod, Prog Rock, Psychedelic Rock"
     },
     {
       "Number": 29,
@@ -230,7 +230,7 @@
       "Album": "Led Zeppelin",
       "Artist": "Led Zeppelin",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Hard Rock"
+      "Website": "Blues Rock, Hard Rock"
     },
     {
       "Number": 30,
@@ -238,7 +238,7 @@
       "Album": "Blue",
       "Artist": "Joni Mitchell",
       "Genre": "Pop",
-      "Subgenre": "Acoustic, Ballad, Folk"
+      "Website": "Acoustic, Ballad, Folk"
     },
     {
       "Number": 31,
@@ -246,7 +246,7 @@
       "Album": "Bringing It All Back Home",
       "Artist": "Bob Dylan",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Folk Rock, Folk"
+      "Website": "Folk Rock, Folk"
     },
     {
       "Number": 32,
@@ -254,7 +254,7 @@
       "Album": "Let It Bleed",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Hard Rock"
+      "Website": "Blues Rock, Hard Rock"
     },
     {
       "Number": 33,
@@ -262,7 +262,7 @@
       "Album": "Ramones",
       "Artist": "Ramones",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Punk"
+      "Website": "Rock & Roll, Punk"
     },
     {
       "Number": 34,
@@ -270,7 +270,7 @@
       "Album": "Music From Big Pink",
       "Artist": "The Band",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Acoustic, Blues Rock"
+      "Website": "Folk Rock, Acoustic, Blues Rock"
     },
     {
       "Number": 35,
@@ -278,7 +278,7 @@
       "Album": "The Rise and Fall of Ziggy Stardust and the Spiders From Mars",
       "Artist": "David Bowie",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Glam"
+      "Website": "Classic Rock, Glam"
     },
     {
       "Number": 36,
@@ -286,7 +286,7 @@
       "Album": "Tapestry",
       "Artist": "Carole King",
       "Genre": "Rock, Pop",
-      "Subgenre": "Folk Rock, Soft Rock"
+      "Website": "Folk Rock, Soft Rock"
     },
     {
       "Number": 37,
@@ -294,7 +294,7 @@
       "Album": "Hotel California",
       "Artist": "Eagles",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 38,
@@ -302,7 +302,7 @@
       "Album": "The Anthology",
       "Artist": "Muddy Waters",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Folk"
+      "Website": "Folk"
     },
     {
       "Number": 39,
@@ -310,7 +310,7 @@
       "Album": "Please Please Me",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Beat, Rock & Roll"
+      "Website": "Beat, Rock & Roll"
     },
     {
       "Number": 40,
@@ -318,7 +318,7 @@
       "Album": "Forever Changes",
       "Artist": "Love",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Psychedelic Rock"
+      "Website": "Folk Rock, Psychedelic Rock"
     },
     {
       "Number": 41,
@@ -326,7 +326,7 @@
       "Album": "Never Mind the Bollocks Here's the Sex Pistols",
       "Artist": "Sex Pistols",
       "Genre": "Rock",
-      "Subgenre": "Punk"
+      "Website": "Punk"
     },
     {
       "Number": 42,
@@ -334,7 +334,7 @@
       "Album": "The Doors",
       "Artist": "The Doors",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 43,
@@ -342,7 +342,7 @@
       "Album": "The Dark Side of the Moon",
       "Artist": "Pink Floyd",
       "Genre": "Rock",
-      "Subgenre": "Prog Rock"
+      "Website": "Prog Rock"
     },
     {
       "Number": 44,
@@ -350,7 +350,7 @@
       "Album": "Horses",
       "Artist": "Patti Smith",
       "Genre": "Rock",
-      "Subgenre": "Art Rock"
+      "Website": "Art Rock"
     },
     {
       "Number": 45,
@@ -358,7 +358,7 @@
       "Album": "The Band (\"The Brown Album\")",
       "Artist": "The Band",
       "Genre": "Classical, Stage & Screen",
-      "Subgenre": "Soundtrack, Modern Classical, Contemporary, Score"
+      "Website": "Soundtrack, Modern Classical, Contemporary, Score"
     },
     {
       "Number": 46,
@@ -366,7 +366,7 @@
       "Album": "Legend: The Best of Bob Marley and The Wailers",
       "Artist": "Bob Marley & The Wailers",
       "Genre": "Reggae",
-      "Subgenre": "Reggae, Roots Reggae"
+      "Website": "Reggae, Roots Reggae"
     },
     {
       "Number": 47,
@@ -374,7 +374,7 @@
       "Album": "A Love Supreme",
       "Artist": "John Coltrane",
       "Genre": "Jazz",
-      "Subgenre": "Free Jazz, Hard Bop, Modal"
+      "Website": "Free Jazz, Hard Bop, Modal"
     },
     {
       "Number": 48,
@@ -382,7 +382,7 @@
       "Album": "It Takes a Nation of Millions to Hold Us Back",
       "Artist": "Public Enemy",
       "Genre": "Hip Hop",
-      "Subgenre": "Conscious"
+      "Website": "Conscious"
     },
     {
       "Number": 49,
@@ -390,7 +390,7 @@
       "Album": "At Fillmore East",
       "Artist": "The Allman Brothers Band",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 50,
@@ -398,7 +398,7 @@
       "Album": "Here's Little Richard",
       "Artist": "Little Richard",
       "Genre": "Rock, Blues",
-      "Subgenre": "Rock & Roll, Rhythm & Blues"
+      "Website": "Rock & Roll, Rhythm & Blues"
     },
     {
       "Number": 51,
@@ -406,7 +406,7 @@
       "Album": "Bridge Over Troubled Water",
       "Artist": "Simon & Garfunkel",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Classic Rock"
+      "Website": "Folk Rock, Classic Rock"
     },
     {
       "Number": 52,
@@ -414,7 +414,7 @@
       "Album": "Greatest Hits",
       "Artist": "Al Green",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 53,
@@ -422,7 +422,7 @@
       "Album": "Meet The Beatles!",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Beat, Rock & Roll"
+      "Website": "Beat, Rock & Roll"
     },
     {
       "Number": 54,
@@ -430,7 +430,7 @@
       "Album": "The Birth of Soul",
       "Artist": "Ray Charles",
       "Genre": "Jazz, Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Big Band, Soul, Soul-Jazz"
+      "Website": "Rhythm & Blues, Big Band, Soul, Soul-Jazz"
     },
     {
       "Number": 55,
@@ -438,7 +438,7 @@
       "Album": "Electric Ladyland",
       "Artist": "The Jimi Hendrix Experience",
       "Genre": "Rock, Blues",
-      "Subgenre": "Electric Blues, Psychedelic Rock"
+      "Website": "Electric Blues, Psychedelic Rock"
     },
     {
       "Number": 56,
@@ -446,7 +446,7 @@
       "Album": "Elvis Presley",
       "Artist": "Elvis Presley",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Rockabilly"
+      "Website": "Rock & Roll, Rockabilly"
     },
     {
       "Number": 57,
@@ -454,7 +454,7 @@
       "Album": "Songs in the Key of Life",
       "Artist": "Stevie Wonder",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Disco"
+      "Website": "Soul, Disco"
     },
     {
       "Number": 58,
@@ -462,7 +462,7 @@
       "Album": "Beggars Banquet",
       "Artist": "The Rolling Stones",
       "Genre": "Rock, Funk / Soul, Pop",
-      "Subgenre": "Blues Rock, Southern Rock, Classic Rock"
+      "Website": "Blues Rock, Southern Rock, Classic Rock"
     },
     {
       "Number": 59,
@@ -470,7 +470,7 @@
       "Album": "Chronicle: The 20 Greatest Hits",
       "Artist": "Creedence Clearwater Revival",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 60,
@@ -478,7 +478,7 @@
       "Album": "Trout Mask Replica",
       "Artist": "Captain Beefheart & His Magic Band",
       "Genre": "Rock, Blues",
-      "Subgenre": "Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental"
+      "Website": "Dialogue, Field Recording, Avantgarde, Electric Blues, Psychedelic Rock, Experimental"
     },
     {
       "Number": 61,
@@ -486,7 +486,7 @@
       "Album": "Greatest Hits",
       "Artist": "Sly & The Family Stone",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Funk"
+      "Website": "Rhythm & Blues, Funk"
     },
     {
       "Number": 62,
@@ -494,7 +494,7 @@
       "Album": "Appetite for Destruction",
       "Artist": "Guns N' Roses",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Heavy Metal"
+      "Website": "Hard Rock, Heavy Metal"
     },
     {
       "Number": 63,
@@ -502,7 +502,7 @@
       "Album": "Achtung Baby",
       "Artist": "U2",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock"
+      "Website": "Pop Rock, Synth-pop, Alternative Rock, Arena Rock"
     },
     {
       "Number": 64,
@@ -510,7 +510,7 @@
       "Album": "Sticky Fingers",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 65,
@@ -518,7 +518,7 @@
       "Album": "Back to Mono (1958-1969)",
       "Artist": "Phil Spector",
       "Genre": "Rock, Funk / Soul, Pop",
-      "Subgenre": "Doo Wop, Pop Rock, Ballad, Rhythm & Blues"
+      "Website": "Doo Wop, Pop Rock, Ballad, Rhythm & Blues"
     },
     {
       "Number": 66,
@@ -526,7 +526,7 @@
       "Album": "Moondance",
       "Artist": "Van Morrison",
       "Genre": "Jazz, Rock, Funk / Soul, Folk, World, & Country",
-      "Subgenre": "Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz"
+      "Website": "Folk Rock, Rhythm & Blues, Classic Rock, Contemporary Jazz"
     },
     {
       "Number": 67,
@@ -534,7 +534,7 @@
       "Album": "Kid A",
       "Artist": "Radiohead",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Alternative Rock, IDM, Experimental"
+      "Website": "Alternative Rock, IDM, Experimental"
     },
     {
       "Number": 68,
@@ -542,7 +542,7 @@
       "Album": "Off the Wall",
       "Artist": "Michael Jackson",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "Disco, Soul, Ballad"
+      "Website": "Disco, Soul, Ballad"
     },
     {
       "Number": 69,
@@ -550,7 +550,7 @@
       "Album": "[Led Zeppelin IV]",
       "Artist": "Led Zeppelin",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Classic Rock, Blues Rock"
+      "Website": "Hard Rock, Classic Rock, Blues Rock"
     },
     {
       "Number": 70,
@@ -558,7 +558,7 @@
       "Album": "The Stranger",
       "Artist": "Billy Joel",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 71,
@@ -566,7 +566,7 @@
       "Album": "Graceland",
       "Artist": "Paul Simon",
       "Genre": "Jazz, Rock, Funk / Soul, Pop, Folk, World, & Country",
-      "Subgenre": "Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues"
+      "Website": "Folk Rock, Pop Rock, African, Afrobeat, Zydeco, Funk, Rhythm & Blues"
     },
     {
       "Number": 72,
@@ -574,7 +574,7 @@
       "Album": "Superfly",
       "Artist": "Curtis Mayfield",
       "Genre": "Funk / Soul, Stage & Screen",
-      "Subgenre": "Soundtrack, Soul"
+      "Website": "Soundtrack, Soul"
     },
     {
       "Number": 73,
@@ -582,7 +582,7 @@
       "Album": "Physical Graffiti",
       "Artist": "Led Zeppelin",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 74,
@@ -590,7 +590,7 @@
       "Album": "After the Gold Rush",
       "Artist": "Neil Young",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Country Rock"
+      "Website": "Rock & Roll, Country Rock"
     },
     {
       "Number": 75,
@@ -598,7 +598,7 @@
       "Album": "Star Time",
       "Artist": "James Brown",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Funk, Disco"
+      "Website": "Soul, Funk, Disco"
     },
     {
       "Number": 76,
@@ -606,7 +606,7 @@
       "Album": "Purple Rain",
       "Artist": "Prince and the Revolution",
       "Genre": "Electronic, Rock, Funk / Soul, Stage & Screen",
-      "Subgenre": "Pop Rock, Funk, Soundtrack, Synth-pop"
+      "Website": "Pop Rock, Funk, Soundtrack, Synth-pop"
     },
     {
       "Number": 77,
@@ -614,7 +614,7 @@
       "Album": "Back in Black",
       "Artist": "AC/DC",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock"
+      "Website": "Hard Rock"
     },
     {
       "Number": 78,
@@ -622,7 +622,7 @@
       "Album": "Otis Blue: Otis Redding Sings Soul",
       "Artist": "Otis Redding",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 79,
@@ -630,7 +630,7 @@
       "Album": "Led Zeppelin II",
       "Artist": "Led Zeppelin",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Classic Rock, Hard Rock"
+      "Website": "Blues Rock, Classic Rock, Hard Rock"
     },
     {
       "Number": 80,
@@ -638,7 +638,7 @@
       "Album": "Imagine",
       "Artist": "John Lennon",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 81,
@@ -646,7 +646,7 @@
       "Album": "The Clash",
       "Artist": "The Clash",
       "Genre": "Rock",
-      "Subgenre": "Punk"
+      "Website": "Punk"
     },
     {
       "Number": 82,
@@ -654,7 +654,7 @@
       "Album": "Harvest",
       "Artist": "Neil Young",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+      "Website": "Folk Rock, Country Rock, Classic Rock"
     },
     {
       "Number": 83,
@@ -662,7 +662,7 @@
       "Album": "Axis: Bold as Love",
       "Artist": "The Jimi Hendrix Experience",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Electric Blues"
+      "Website": "Psychedelic Rock, Electric Blues"
     },
     {
       "Number": 84,
@@ -670,7 +670,7 @@
       "Album": "I Never Loved a Man the Way I Love You",
       "Artist": "Aretha Franklin",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 85,
@@ -678,7 +678,7 @@
       "Album": "Lady Soul",
       "Artist": "Aretha Franklin",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 86,
@@ -686,7 +686,7 @@
       "Album": "Born in the U.S.A.",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 87,
@@ -694,7 +694,7 @@
       "Album": "The Wall",
       "Artist": "Pink Floyd",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Prog Rock"
+      "Website": "Alternative Rock, Prog Rock"
     },
     {
       "Number": 88,
@@ -702,7 +702,7 @@
       "Album": "At Folsom Prison",
       "Artist": "Johnny Cash",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 89,
@@ -710,7 +710,7 @@
       "Album": "Dusty in Memphis",
       "Artist": "Dusty Springfield",
       "Genre": "Rock, Funk / Soul",
-      "Subgenre": "Pop Rock, Soul"
+      "Website": "Pop Rock, Soul"
     },
     {
       "Number": 90,
@@ -718,7 +718,7 @@
       "Album": "Talking Book",
       "Artist": "Stevie Wonder",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Funk"
+      "Website": "Soul, Funk"
     },
     {
       "Number": 91,
@@ -726,7 +726,7 @@
       "Album": "Goodbye Yellow Brick Road",
       "Artist": "Elton John",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Classic Rock"
+      "Website": "Pop Rock, Classic Rock"
     },
     {
       "Number": 92,
@@ -734,7 +734,7 @@
       "Album": "20 Golden Greats",
       "Artist": "Buddy Holly",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll"
+      "Website": "Rock & Roll"
     },
     {
       "Number": 93,
@@ -742,7 +742,7 @@
       "Album": "Sign \"Peace\" the Times",
       "Artist": "Prince",
       "Genre": "Rock, Reggae",
-      "Subgenre": "Ska, Reggae-Pop"
+      "Website": "Ska, Reggae-Pop"
     },
     {
       "Number": 94,
@@ -750,7 +750,7 @@
       "Album": "40 Greatest Hits",
       "Artist": "Hank Williams",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 95,
@@ -758,7 +758,7 @@
       "Album": "Bitches Brew",
       "Artist": "Miles Davis",
       "Genre": "Jazz",
-      "Subgenre": "Fusion"
+      "Website": "Fusion"
     },
     {
       "Number": 96,
@@ -766,7 +766,7 @@
       "Album": "Tommy",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 97,
@@ -774,7 +774,7 @@
       "Album": "The Freewheelin' Bob Dylan",
       "Artist": "Bob Dylan",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Folk"
+      "Website": "Folk"
     },
     {
       "Number": 98,
@@ -782,7 +782,7 @@
       "Album": "This Year's Model",
       "Artist": "Elvis Costello",
       "Genre": "Rock",
-      "Subgenre": "New Wave"
+      "Website": "New Wave"
     },
     {
       "Number": 99,
@@ -790,7 +790,7 @@
       "Album": "There's a Riot Goin' On",
       "Artist": "Sly & The Family Stone",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Funk"
+      "Website": "Rhythm & Blues, Funk"
     },
     {
       "Number": 100,
@@ -798,7 +798,7 @@
       "Album": "Odessey and Oracle",
       "Artist": "The Zombies",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 101,
@@ -806,7 +806,7 @@
       "Album": "In the Wee Small Hours",
       "Artist": "Frank Sinatra",
       "Genre": "Jazz, Pop",
-      "Subgenre": "Big Band, Ballad"
+      "Website": "Big Band, Ballad"
     },
     {
       "Number": 102,
@@ -814,7 +814,7 @@
       "Album": "Fresh Cream",
       "Artist": "Cream",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Electric Blues"
+      "Website": "Blues Rock, Electric Blues"
     },
     {
       "Number": 103,
@@ -822,7 +822,7 @@
       "Album": "Giant Steps",
       "Artist": "John Coltrane",
       "Genre": "Jazz",
-      "Subgenre": "Hard Bop"
+      "Website": "Hard Bop"
     },
     {
       "Number": 104,
@@ -830,7 +830,7 @@
       "Album": "Sweet Baby James",
       "Artist": "James Taylor",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Acoustic, Soft Rock"
+      "Website": "Folk Rock, Acoustic, Soft Rock"
     },
     {
       "Number": 105,
@@ -838,7 +838,7 @@
       "Album": "Modern Sounds in Country and Western Music",
       "Artist": "Ray Charles",
       "Genre": "Funk / Soul, Folk, World, & Country",
-      "Subgenre": "Country, Rhythm & Blues"
+      "Website": "Country, Rhythm & Blues"
     },
     {
       "Number": 106,
@@ -846,7 +846,7 @@
       "Album": "Rocket to Russia",
       "Artist": "Ramones",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Punk"
+      "Website": "Rock & Roll, Punk"
     },
     {
       "Number": 107,
@@ -854,7 +854,7 @@
       "Album": "Portrait of a Legend 1951-1964",
       "Artist": "Sam Cooke",
       "Genre": "Latin, Funk / Soul",
-      "Subgenre": "Soul, Rhythm & Blues, Gospel, Cha-Cha"
+      "Website": "Soul, Rhythm & Blues, Gospel, Cha-Cha"
     },
     {
       "Number": 108,
@@ -862,7 +862,7 @@
       "Album": "Hunky Dory",
       "Artist": "David Bowie",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Glam"
+      "Website": "Classic Rock, Glam"
     },
     {
       "Number": 109,
@@ -870,7 +870,7 @@
       "Album": "Aftermath",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Pop Rock"
+      "Website": "Blues Rock, Pop Rock"
     },
     {
       "Number": 110,
@@ -878,7 +878,7 @@
       "Album": "Loaded",
       "Artist": "The Velvet Underground",
       "Genre": "Rock",
-      "Subgenre": "Art Rock, Classic Rock"
+      "Website": "Art Rock, Classic Rock"
     },
     {
       "Number": 111,
@@ -886,7 +886,7 @@
       "Album": "The Bends",
       "Artist": "Radiohead",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 112,
@@ -894,7 +894,7 @@
       "Album": "If You Can Believe Your Eyes and Ears",
       "Artist": "The Mamas and the Papas",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Pop Rock"
+      "Website": "Folk Rock, Pop Rock"
     },
     {
       "Number": 113,
@@ -902,7 +902,7 @@
       "Album": "Court and Spark",
       "Artist": "Joni Mitchell",
       "Genre": "Rock",
-      "Subgenre": "Soft Rock, Pop Rock"
+      "Website": "Soft Rock, Pop Rock"
     },
     {
       "Number": 114,
@@ -910,7 +910,7 @@
       "Album": "Disraeli Gears",
       "Artist": "Cream",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Blues Rock"
+      "Website": "Psychedelic Rock, Blues Rock"
     },
     {
       "Number": 115,
@@ -918,7 +918,7 @@
       "Album": "The Who Sell Out",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Mod"
+      "Website": "Psychedelic Rock, Mod"
     },
     {
       "Number": 116,
@@ -926,7 +926,7 @@
       "Album": "Out of Our Heads",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Rock & Roll"
+      "Website": "Blues Rock, Rock & Roll"
     },
     {
       "Number": 117,
@@ -934,7 +934,7 @@
       "Album": "Layla and Other Assorted Love Songs",
       "Artist": "Derek and the Dominos",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 118,
@@ -942,7 +942,7 @@
       "Album": "Late Registration",
       "Artist": "Kanye West",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 119,
@@ -950,7 +950,7 @@
       "Album": "At Last!",
       "Artist": "Etta James",
       "Genre": "Funk / Soul, Blues",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 120,
@@ -958,7 +958,7 @@
       "Album": "Sweetheart of the Rodeo",
       "Artist": "The Byrds",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock"
+      "Website": "Folk Rock, Country Rock"
     },
     {
       "Number": 121,
@@ -966,7 +966,7 @@
       "Album": "Stand!",
       "Artist": "Sly & The Family Stone",
       "Genre": "Funk / Soul",
-      "Subgenre": "Funk, Psychedelic, Disco"
+      "Website": "Funk, Psychedelic, Disco"
     },
     {
       "Number": 122,
@@ -974,7 +974,7 @@
       "Album": "The Harder They Come",
       "Artist": "Various Artists",
       "Genre": "Reggae,�Pop,�Folk, World, & Country,�Stage & Screen",
-      "Subgenre": "Reggae,�Roots Reggae,�Rocksteady,�Contemporary,�Soundtrack"
+      "Website": "Reggae,�Roots Reggae,�Rocksteady,�Contemporary,�Soundtrack"
     },
     {
       "Number": 123,
@@ -982,7 +982,7 @@
       "Album": "Raising Hell",
       "Artist": "Run D.M.C.",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 124,
@@ -990,7 +990,7 @@
       "Album": "Moby Grape",
       "Artist": "Moby Grape",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Psychedelic Rock"
+      "Website": "Folk Rock, Psychedelic Rock"
     },
     {
       "Number": 125,
@@ -998,7 +998,7 @@
       "Album": "Pearl",
       "Artist": "Janis Joplin",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 126,
@@ -1006,7 +1006,7 @@
       "Album": "Catch a Fire",
       "Artist": "The Wailers",
       "Genre": "Reggae",
-      "Subgenre": "Roots Reggae"
+      "Website": "Roots Reggae"
     },
     {
       "Number": 127,
@@ -1014,7 +1014,7 @@
       "Album": "Younger Than Yesterday",
       "Artist": "The Byrds",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Psychedelic Rock"
+      "Website": "Folk Rock, Psychedelic Rock"
     },
     {
       "Number": 128,
@@ -1022,7 +1022,7 @@
       "Album": "Raw Power",
       "Artist": "Iggy and The Stooges",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Hard Rock, Punk"
+      "Website": "Garage Rock, Hard Rock, Punk"
     },
     {
       "Number": 129,
@@ -1030,7 +1030,7 @@
       "Album": "Remain in Light",
       "Artist": "Talking Heads",
       "Genre": "Electronic, Rock",
-      "Subgenre": "New Wave, Art Rock, Funk"
+      "Website": "New Wave, Art Rock, Funk"
     },
     {
       "Number": 130,
@@ -1038,7 +1038,7 @@
       "Album": "Marquee Moon",
       "Artist": "Television",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Punk"
+      "Website": "New Wave, Punk"
     },
     {
       "Number": 131,
@@ -1046,7 +1046,7 @@
       "Album": "Paranoid",
       "Artist": "Black Sabbath",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Heavy Metal"
+      "Website": "Hard Rock, Heavy Metal"
     },
     {
       "Number": 132,
@@ -1054,7 +1054,7 @@
       "Album": "Saturday Night Fever: The Original Movie Sound Track",
       "Artist": "Various Artists",
       "Genre": "Electronic,�Stage & Screen",
-      "Subgenre": "Soundtrack,�Disco"
+      "Website": "Soundtrack,�Disco"
     },
     {
       "Number": 133,
@@ -1062,7 +1062,7 @@
       "Album": "The Wild, the Innocent & the E Street Shuffle",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 134,
@@ -1070,7 +1070,7 @@
       "Album": "Ready to Die",
       "Artist": "The Notorious B.I.G.",
       "Genre": "Hip Hop",
-      "Subgenre": "Thug Rap"
+      "Website": "Thug Rap"
     },
     {
       "Number": 135,
@@ -1078,7 +1078,7 @@
       "Album": "Slanted and Enchanted",
       "Artist": "Pavement",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 136,
@@ -1086,7 +1086,7 @@
       "Album": "Greatest Hits",
       "Artist": "Elton John",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 137,
@@ -1094,7 +1094,7 @@
       "Album": "Tim",
       "Artist": "The Replacements",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 138,
@@ -1102,7 +1102,7 @@
       "Album": "The Chronic",
       "Artist": "Dr. Dre",
       "Genre": "Hip Hop",
-      "Subgenre": "Gangsta"
+      "Website": "Gangsta"
     },
     {
       "Number": 139,
@@ -1110,7 +1110,7 @@
       "Album": "Rejuvenation",
       "Artist": "The Meters",
       "Genre": "Funk / Soul",
-      "Subgenre": "Bayou Funk, Soul"
+      "Website": "Bayou Funk, Soul"
     },
     {
       "Number": 140,
@@ -1118,7 +1118,7 @@
       "Album": "Parallel Lines",
       "Artist": "Blondie",
       "Genre": "Electronic, Rock",
-      "Subgenre": "New Wave, Pop Rock, Punk, Disco"
+      "Website": "New Wave, Pop Rock, Punk, Disco"
     },
     {
       "Number": 141,
@@ -1126,7 +1126,7 @@
       "Album": "Live at the Regal",
       "Artist": "B.B. King",
       "Genre": "Blues",
-      "Subgenre": "Chicago Blues"
+      "Website": "Chicago Blues"
     },
     {
       "Number": 142,
@@ -1134,7 +1134,7 @@
       "Album": "A Christmas Gift for You From Phil Spector",
       "Artist": "Phil Spector",
       "Genre": "Rock, Funk / Soul, Pop",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 143,
@@ -1142,7 +1142,7 @@
       "Album": "Gris-Gris",
       "Artist": "Dr. John, the Night Tripper",
       "Genre": "Jazz, Rock, Funk / Soul, Blues",
-      "Subgenre": "Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk"
+      "Website": "Soul-Jazz, Louisiana Blues, Fusion, Bayou Funk"
     },
     {
       "Number": 144,
@@ -1150,7 +1150,7 @@
       "Album": "Straight Outta Compton",
       "Artist": "N.W.A",
       "Genre": "Hip Hop",
-      "Subgenre": "Gangsta"
+      "Website": "Gangsta"
     },
     {
       "Number": 145,
@@ -1158,7 +1158,7 @@
       "Album": "Aja",
       "Artist": "Steely Dan",
       "Genre": "Jazz, Rock",
-      "Subgenre": "Jazz-Rock, Classic Rock"
+      "Website": "Jazz-Rock, Classic Rock"
     },
     {
       "Number": 146,
@@ -1166,7 +1166,7 @@
       "Album": "Surrealistic Pillow",
       "Artist": "Jefferson Airplane",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Psychedelic Rock"
+      "Website": "Folk Rock, Psychedelic Rock"
     },
     {
       "Number": 147,
@@ -1174,7 +1174,7 @@
       "Album": "Deja vu",
       "Artist": "Crosby, Stills, Nash & Young",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 148,
@@ -1182,7 +1182,7 @@
       "Album": "Houses of the Holy",
       "Artist": "Led Zeppelin",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 149,
@@ -1190,7 +1190,7 @@
       "Album": "Santana",
       "Artist": "Santana",
       "Genre": "Rock, Latin, Funk / Soul",
-      "Subgenre": "Afro-Cuban, Psychedelic Rock"
+      "Website": "Afro-Cuban, Psychedelic Rock"
     },
     {
       "Number": 150,
@@ -1198,7 +1198,7 @@
       "Album": "Darkness on the Edge of Town",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 151,
@@ -1206,7 +1206,7 @@
       "Album": "Funeral",
       "Artist": "Arcade Fire",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 152,
@@ -1214,7 +1214,7 @@
       "Album": "The B 52's / Play Loud",
       "Artist": "The B 52's",
       "Genre": "Electronic, Rock, Pop",
-      "Subgenre": "New Wave, Punk, Mod"
+      "Website": "New Wave, Punk, Mod"
     },
     {
       "Number": 153,
@@ -1222,7 +1222,7 @@
       "Album": "The Low End Theory",
       "Artist": "A Tribe Called Quest",
       "Genre": "Hip Hop",
-      "Subgenre": "Conscious"
+      "Website": "Conscious"
     },
     {
       "Number": 154,
@@ -1230,7 +1230,7 @@
       "Album": "Moanin' in the Moonlight",
       "Artist": "Howlin' Wolf",
       "Genre": "Blues",
-      "Subgenre": "Chicago Blues"
+      "Website": "Chicago Blues"
     },
     {
       "Number": 155,
@@ -1238,7 +1238,7 @@
       "Album": "Pretenders",
       "Artist": "Pretenders",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, New Wave"
+      "Website": "Alternative Rock, New Wave"
     },
     {
       "Number": 156,
@@ -1246,7 +1246,7 @@
       "Album": "Paul's Boutique",
       "Artist": "Beastie Boys",
       "Genre": "Hip Hop, Rock, Funk / Soul",
-      "Subgenre": "Alternative Rock, Pop Rap, Psychedelic"
+      "Website": "Alternative Rock, Pop Rap, Psychedelic"
     },
     {
       "Number": 157,
@@ -1254,7 +1254,7 @@
       "Album": "Closer",
       "Artist": "Joy Division",
       "Genre": "Rock",
-      "Subgenre": "Post-Punk, New Wave"
+      "Website": "Post-Punk, New Wave"
     },
     {
       "Number": 158,
@@ -1262,7 +1262,7 @@
       "Album": "Captain Fantastic and the Brown Dirt Cowboy",
       "Artist": "Elton John",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Classic Rock"
+      "Website": "Pop Rock, Classic Rock"
     },
     {
       "Number": 159,
@@ -1270,7 +1270,7 @@
       "Album": "Alive!",
       "Artist": "KISS",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Glam"
+      "Website": "Hard Rock, Glam"
     },
     {
       "Number": 160,
@@ -1278,7 +1278,7 @@
       "Album": "Electric Warrior",
       "Artist": "T. Rex",
       "Genre": "Rock",
-      "Subgenre": "Glam, Classic Rock"
+      "Website": "Glam, Classic Rock"
     },
     {
       "Number": 161,
@@ -1286,7 +1286,7 @@
       "Album": "The Dock of the Bay",
       "Artist": "Otis Redding",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 162,
@@ -1294,7 +1294,7 @@
       "Album": "OK Computer",
       "Artist": "Radiohead",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 163,
@@ -1302,7 +1302,7 @@
       "Album": "1999",
       "Artist": "Prince",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 164,
@@ -1310,7 +1310,7 @@
       "Album": "The Very Best of Linda Ronstadt",
       "Artist": "Linda Ronstadt",
       "Genre": "Rock, Pop",
-      "Subgenre": "Soft Rock, Pop Rock"
+      "Website": "Soft Rock, Pop Rock"
     },
     {
       "Number": 165,
@@ -1318,7 +1318,7 @@
       "Album": "Let's Get It On",
       "Artist": "Marvin Gaye",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 166,
@@ -1326,7 +1326,7 @@
       "Album": "Imperial Bedroom",
       "Artist": "Elvis Costello & The Attractions",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, New Wave"
+      "Website": "Alternative Rock, New Wave"
     },
     {
       "Number": 167,
@@ -1334,7 +1334,7 @@
       "Album": "Master of Puppets",
       "Artist": "Metallica",
       "Genre": "Rock",
-      "Subgenre": "Thrash, Speed Metal"
+      "Website": "Thrash, Speed Metal"
     },
     {
       "Number": 168,
@@ -1342,7 +1342,7 @@
       "Album": "My Aim Is True",
       "Artist": "Elvis Costello",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Pop Rock"
+      "Website": "New Wave, Pop Rock"
     },
     {
       "Number": 169,
@@ -1350,7 +1350,7 @@
       "Album": "Exodus",
       "Artist": "Bob Marley & The Wailers",
       "Genre": "Reggae",
-      "Subgenre": "Reggae, Roots Reggae"
+      "Website": "Reggae, Roots Reggae"
     },
     {
       "Number": 170,
@@ -1358,7 +1358,7 @@
       "Album": "Live at Leeds",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Blues Rock, Hard Rock"
+      "Website": "Classic Rock, Blues Rock, Hard Rock"
     },
     {
       "Number": 171,
@@ -1366,7 +1366,7 @@
       "Album": "The Notorious Byrd Brothers",
       "Artist": "The Byrds",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Pop Rock"
+      "Website": "Psychedelic Rock, Folk Rock, Country Rock, Pop Rock"
     },
     {
       "Number": 172,
@@ -1374,7 +1374,7 @@
       "Album": "Every Picture Tells a Story",
       "Artist": "Rod Stewart",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 173,
@@ -1382,7 +1382,7 @@
       "Album": "Something/Anything?",
       "Artist": "Todd Rundgren",
       "Genre": "Rock",
-      "Subgenre": "Power Pop, Pop Rock, Prog Rock"
+      "Website": "Power Pop, Pop Rock, Prog Rock"
     },
     {
       "Number": 174,
@@ -1390,7 +1390,7 @@
       "Album": "Desire",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock"
+      "Website": "Folk Rock"
     },
     {
       "Number": 175,
@@ -1398,7 +1398,7 @@
       "Album": "Close to You",
       "Artist": "Carpenters",
       "Genre": "Rock, Pop",
-      "Subgenre": "Pop Rock, Vocal"
+      "Website": "Pop Rock, Vocal"
     },
     {
       "Number": 176,
@@ -1406,7 +1406,7 @@
       "Album": "Rocks",
       "Artist": "Aerosmith",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Classic Rock"
+      "Website": "Hard Rock, Classic Rock"
     },
     {
       "Number": 177,
@@ -1414,7 +1414,7 @@
       "Album": "One Nation Under a Groove",
       "Artist": "Funkadelic",
       "Genre": "Funk / Soul",
-      "Subgenre": "P.Funk"
+      "Website": "P.Funk"
     },
     {
       "Number": 178,
@@ -1422,7 +1422,7 @@
       "Album": "The Anthology: 1961-1977",
       "Artist": "Curtis Mayfield and The Impressions",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul, Funk"
+      "Website": "Rhythm & Blues, Soul, Funk"
     },
     {
       "Number": 179,
@@ -1430,7 +1430,7 @@
       "Album": "The Definitive Collection",
       "Artist": "ABBA",
       "Genre": "Electronic, Pop",
-      "Subgenre": "Europop, Synth-pop, Disco"
+      "Website": "Europop, Synth-pop, Disco"
     },
     {
       "Number": 180,
@@ -1438,7 +1438,7 @@
       "Album": "The Rolling Stones, Now!",
       "Artist": "The Rolling Stones",
       "Genre": "Rock, Blues, Pop",
-      "Subgenre": "Pop Rock, Rhythm & Blues, Rock & Roll"
+      "Website": "Pop Rock, Rhythm & Blues, Rock & Roll"
     },
     {
       "Number": 181,
@@ -1446,7 +1446,7 @@
       "Album": "Natty Dread",
       "Artist": "Bob Marley & The Wailers",
       "Genre": "Reggae",
-      "Subgenre": "Reggae, Roots Reggae"
+      "Website": "Reggae, Roots Reggae"
     },
     {
       "Number": 182,
@@ -1454,7 +1454,7 @@
       "Album": "Fleetwood Mac",
       "Artist": "Fleetwood Mac",
       "Genre": "Rock, Pop",
-      "Subgenre": "Folk Rock, Pop Rock"
+      "Website": "Folk Rock, Pop Rock"
     },
     {
       "Number": 183,
@@ -1462,7 +1462,7 @@
       "Album": "Red Headed Stranger",
       "Artist": "Willie Nelson",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 184,
@@ -1470,7 +1470,7 @@
       "Album": "The Immaculate Collection",
       "Artist": "Madonna",
       "Genre": "Electronic, Pop",
-      "Subgenre": "Synth-pop"
+      "Website": "Synth-pop"
     },
     {
       "Number": 185,
@@ -1478,7 +1478,7 @@
       "Album": "The Stooges",
       "Artist": "The Stooges",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Punk"
+      "Website": "Garage Rock, Punk"
     },
     {
       "Number": 186,
@@ -1486,7 +1486,7 @@
       "Album": "Fresh",
       "Artist": "Sly & The Family Stone",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Funk"
+      "Website": "Rhythm & Blues, Funk"
     },
     {
       "Number": 187,
@@ -1494,7 +1494,7 @@
       "Album": "So",
       "Artist": "Peter Gabriel",
       "Genre": "Electronic, Rock, Soul, Pop",
-      "Subgenre": "Art Rock, Pop Rock, Synth-pop, Funk"
+      "Website": "Art Rock, Pop Rock, Synth-pop, Funk"
     },
     {
       "Number": 188,
@@ -1502,7 +1502,7 @@
       "Album": "Buffalo Springfield Again",
       "Artist": "Buffalo Springfield",
       "Genre": "Rock, Pop",
-      "Subgenre": "Country Rock"
+      "Website": "Country Rock"
     },
     {
       "Number": 189,
@@ -1510,7 +1510,7 @@
       "Album": "Happy Trails",
       "Artist": "Quicksilver Messenger Service",
       "Genre": "Rock",
-      "Subgenre": "Acid Rock, Psychedelic Rock"
+      "Website": "Acid Rock, Psychedelic Rock"
     },
     {
       "Number": 190,
@@ -1518,7 +1518,7 @@
       "Album": "From Elvis in Memphis",
       "Artist": "Elvis Presley",
       "Genre": "Rock, Funk / Soul, Folk, World, & Country",
-      "Subgenre": "Country, Soul"
+      "Website": "Country, Soul"
     },
     {
       "Number": 191,
@@ -1526,7 +1526,7 @@
       "Album": "Fun House",
       "Artist": "The Stooges",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Punk"
+      "Website": "Garage Rock, Punk"
     },
     {
       "Number": 192,
@@ -1534,7 +1534,7 @@
       "Album": "The Gilded Palace of Sin",
       "Artist": "The Flying Burrito Brothers",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Country Rock"
+      "Website": "Country Rock"
     },
     {
       "Number": 193,
@@ -1542,7 +1542,7 @@
       "Album": "Dookie",
       "Artist": "Green Day",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Pop Punk, Punk"
+      "Website": "Alternative Rock, Pop Punk, Punk"
     },
     {
       "Number": 194,
@@ -1550,7 +1550,7 @@
       "Album": "Transformer",
       "Artist": "Lou Reed",
       "Genre": "Rock",
-      "Subgenre": "Glam"
+      "Website": "Glam"
     },
     {
       "Number": 195,
@@ -1558,7 +1558,7 @@
       "Album": "Blues Breakers With Eric Clapton",
       "Artist": "John Mayall & The Bluesbreakers",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 196,
@@ -1566,7 +1566,7 @@
       "Album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
       "Artist": "Various Artists",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Psychedelic Rock"
+      "Website": "Garage Rock, Psychedelic Rock"
     },
     {
       "Number": 197,
@@ -1574,7 +1574,7 @@
       "Album": "Murmur",
       "Artist": "R.E.M.",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 198,
@@ -1582,7 +1582,7 @@
       "Album": "The Best of Little Walter",
       "Artist": "Little Walter",
       "Genre": "Blues",
-      "Subgenre": "Chicago Blues"
+      "Website": "Chicago Blues"
     },
     {
       "Number": 199,
@@ -1590,7 +1590,7 @@
       "Album": "Is This It",
       "Artist": "The Strokes",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 200,
@@ -1598,7 +1598,7 @@
       "Album": "Highway to Hell",
       "Artist": "AC/DC",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock"
+      "Website": "Hard Rock"
     },
     {
       "Number": 201,
@@ -1606,7 +1606,7 @@
       "Album": "The Downward Spiral",
       "Artist": "Nine Inch Nails",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Industrial"
+      "Website": "Industrial"
     },
     {
       "Number": 202,
@@ -1614,7 +1614,7 @@
       "Album": "Parsley, Sage, Rosemary and Thyme",
       "Artist": "Simon & Garfunkel",
       "Genre": "Rock, Pop, Folk & Country",
-      "Subgenre": "Folk Rock, Pop Rock"
+      "Website": "Folk Rock, Pop Rock"
     },
     {
       "Number": 203,
@@ -1622,7 +1622,7 @@
       "Album": "Bad",
       "Artist": "Michael Jackson",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "Pop Rock, Ballad, Funk, Soul"
+      "Website": "Pop Rock, Ballad, Funk, Soul"
     },
     {
       "Number": 204,
@@ -1630,7 +1630,7 @@
       "Album": "Modern Times",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Folk Rock"
+      "Website": "Blues Rock, Folk Rock"
     },
     {
       "Number": 205,
@@ -1638,7 +1638,7 @@
       "Album": "Wheels of Fire",
       "Artist": "Cream",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Psychedelic Rock, Classic Rock"
+      "Website": "Blues Rock, Psychedelic Rock, Classic Rock"
     },
     {
       "Number": 206,
@@ -1646,7 +1646,7 @@
       "Album": "Dirty Mind",
       "Artist": "Prince",
       "Genre": "Funk / Soul",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 207,
@@ -1654,7 +1654,7 @@
       "Album": "Abraxas",
       "Artist": "Santana",
       "Genre": "Rock, Latin",
-      "Subgenre": "Fusion, Hard Rock, Psychedelic Rock"
+      "Website": "Fusion, Hard Rock, Psychedelic Rock"
     },
     {
       "Number": 208,
@@ -1662,7 +1662,7 @@
       "Album": "Tea for the Tillerman",
       "Artist": "Cat Stevens",
       "Genre": "Rock, Stage & Screen",
-      "Subgenre": "Folk Rock, Pop Rock"
+      "Website": "Folk Rock, Pop Rock"
     },
     {
       "Number": 209,
@@ -1670,7 +1670,7 @@
       "Album": "Ten",
       "Artist": "Pearl Jam",
       "Genre": "Rock",
-      "Subgenre": "Grunge"
+      "Website": "Grunge"
     },
     {
       "Number": 210,
@@ -1678,7 +1678,7 @@
       "Album": "Everybody Knows This Is Nowhere",
       "Artist": "Neil Young & Crazy Horse",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+      "Website": "Folk Rock, Country Rock, Classic Rock"
     },
     {
       "Number": 211,
@@ -1686,7 +1686,7 @@
       "Album": "Wish You Were Here",
       "Artist": "Pink Floyd",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Prog Rock"
+      "Website": "Classic Rock, Prog Rock"
     },
     {
       "Number": 212,
@@ -1694,7 +1694,7 @@
       "Album": "Crooked Rain Crooked Rain",
       "Artist": "Pavement",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Indie Rock"
+      "Website": "Alternative Rock, Indie Rock"
     },
     {
       "Number": 213,
@@ -1702,7 +1702,7 @@
       "Album": "Tattoo You",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 214,
@@ -1710,7 +1710,7 @@
       "Album": "Proud Mary: The Best of Ike and Tina Turner",
       "Artist": "Ike & Tina Turner",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Bayou Funk, Soul"
+      "Website": "Rhythm & Blues, Bayou Funk, Soul"
     },
     {
       "Number": 215,
@@ -1718,7 +1718,7 @@
       "Album": "New York Dolls",
       "Artist": "New York Dolls",
       "Genre": "Rock",
-      "Subgenre": "Glam"
+      "Website": "Glam"
     },
     {
       "Number": 216,
@@ -1726,7 +1726,7 @@
       "Album": "Bo Diddley / Go Bo Diddley",
       "Artist": "Bo Diddley",
       "Genre": "Rock, Blues",
-      "Subgenre": "Rhythm & Blues, Rock & Roll"
+      "Website": "Rhythm & Blues, Rock & Roll"
     },
     {
       "Number": 217,
@@ -1734,7 +1734,7 @@
       "Album": "Two Steps From the Blues",
       "Artist": "Bobby \"Blue\" Bland",
       "Genre": "Funk / Soul, Blues",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 218,
@@ -1742,7 +1742,7 @@
       "Album": "The Queen Is Dead",
       "Artist": "The Smiths",
       "Genre": "Rock, Pop",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 219,
@@ -1750,7 +1750,7 @@
       "Album": "Licensed to Ill",
       "Artist": "Beastie Boys",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 220,
@@ -1758,7 +1758,7 @@
       "Album": "Look-Ka Py Py",
       "Artist": "The Meters",
       "Genre": "Funk / Soul",
-      "Subgenre": "Bayou Funk, Soul, Funk"
+      "Website": "Bayou Funk, Soul, Funk"
     },
     {
       "Number": 221,
@@ -1766,7 +1766,7 @@
       "Album": "Loveless",
       "Artist": "My Bloody Valentine",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Shoegaze"
+      "Website": "Alternative Rock, Shoegaze"
     },
     {
       "Number": 222,
@@ -1774,7 +1774,7 @@
       "Album": "New Orleans Piano",
       "Artist": "Professor Longhair",
       "Genre": "Funk / Soul, Blues",
-      "Subgenre": "Piano Blues"
+      "Website": "Piano Blues"
     },
     {
       "Number": 223,
@@ -1782,7 +1782,7 @@
       "Album": "War",
       "Artist": "U2",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 224,
@@ -1790,7 +1790,7 @@
       "Album": "The Neil Diamond Collection",
       "Artist": "Neil Diamond",
       "Genre": "Rock, Pop",
-      "Subgenre": "Soft Rock, Ballad"
+      "Website": "Soft Rock, Ballad"
     },
     {
       "Number": 225,
@@ -1798,7 +1798,7 @@
       "Album": "American Idiot",
       "Artist": "Green Day",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Punk"
+      "Website": "Pop Rock, Punk"
     },
     {
       "Number": 226,
@@ -1806,7 +1806,7 @@
       "Album": "Nebraska",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Acoustic"
+      "Website": "Acoustic"
     },
     {
       "Number": 227,
@@ -1814,7 +1814,7 @@
       "Album": "Doolittle",
       "Artist": "Pixies",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 228,
@@ -1822,7 +1822,7 @@
       "Album": "Paid in Full",
       "Artist": "Eric B. & Rakim",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 229,
@@ -1830,7 +1830,7 @@
       "Album": "Toys in the Attic",
       "Artist": "Aerosmith",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Blues Rock"
+      "Website": "Hard Rock, Blues Rock"
     },
     {
       "Number": 230,
@@ -1838,7 +1838,7 @@
       "Album": "Nick of Time",
       "Artist": "Bonnie Raitt",
       "Genre": "Rock, Pop",
-      "Subgenre": "Blues Rock, Pop Rock"
+      "Website": "Blues Rock, Pop Rock"
     },
     {
       "Number": 231,
@@ -1846,7 +1846,7 @@
       "Album": "A Night at the Opera",
       "Artist": "Queen",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Pop Rock, Prog Rock"
+      "Website": "Hard Rock, Pop Rock, Prog Rock"
     },
     {
       "Number": 232,
@@ -1854,7 +1854,7 @@
       "Album": "The Kink Kronikles",
       "Artist": "The Kinks",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Pop Rock"
+      "Website": "Rock & Roll, Pop Rock"
     },
     {
       "Number": 233,
@@ -1862,7 +1862,7 @@
       "Album": "Mr. Tambourine Man",
       "Artist": "The Byrds",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Garage Rock, Pop Rock"
+      "Website": "Folk Rock, Garage Rock, Pop Rock"
     },
     {
       "Number": 234,
@@ -1870,7 +1870,7 @@
       "Album": "Bookends",
       "Artist": "Simon & Garfunkel",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Classic Rock"
+      "Website": "Folk Rock, Classic Rock"
     },
     {
       "Number": 235,
@@ -1878,7 +1878,7 @@
       "Album": "The Ultimate Collection",
       "Artist": "Patsy Cline",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 236,
@@ -1886,7 +1886,7 @@
       "Album": "Mr. Excitement!",
       "Artist": "Jackie Wilson",
       "Genre": "Funk / Soul",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 237,
@@ -1894,7 +1894,7 @@
       "Album": "My Generation",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Mod"
+      "Website": "Mod"
     },
     {
       "Number": 238,
@@ -1902,7 +1902,7 @@
       "Album": "Howlin' Wolf",
       "Artist": "Howlin' Wolf",
       "Genre": "Blues",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 239,
@@ -1910,7 +1910,7 @@
       "Album": "Like a Prayer",
       "Artist": "Madonna",
       "Genre": "Electronic, Pop",
-      "Subgenre": "Synth-pop"
+      "Website": "Synth-pop"
     },
     {
       "Number": 240,
@@ -1918,7 +1918,7 @@
       "Album": "Can't Buy a Thrill",
       "Artist": "Steely Dan",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 241,
@@ -1926,7 +1926,7 @@
       "Album": "Let It Be",
       "Artist": "The Replacements",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Power Pop, Punk, Indie Rock"
+      "Website": "Alternative Rock, Power Pop, Punk, Indie Rock"
     },
     {
       "Number": 242,
@@ -1934,7 +1934,7 @@
       "Album": "Run D.M.C.",
       "Artist": "Run D.M.C.",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 243,
@@ -1942,7 +1942,7 @@
       "Album": "Black Sabbath",
       "Artist": "Black Sabbath",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Heavy Metal"
+      "Website": "Blues Rock, Heavy Metal"
     },
     {
       "Number": 244,
@@ -1950,7 +1950,7 @@
       "Album": "The Marshall Mathers LP",
       "Artist": "Eminem",
       "Genre": "Hip Hop",
-      "Subgenre": "Pop Rap, Hardcore Hip-Hop, Horrorcore"
+      "Website": "Pop Rap, Hardcore Hip-Hop, Horrorcore"
     },
     {
       "Number": 245,
@@ -1958,7 +1958,7 @@
       "Album": "All Killer No Filler! The Jerry Lee Lewis Anthology",
       "Artist": "Jerry Lee Lewis",
       "Genre": "Rock, Blues, Folk, World, & Country",
-      "Subgenre": "Country Blues, Rock & Roll, Rhythm & Blues"
+      "Website": "Country Blues, Rock & Roll, Rhythm & Blues"
     },
     {
       "Number": 246,
@@ -1966,7 +1966,7 @@
       "Album": "Freak Out!",
       "Artist": "The Mothers of Invention",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody"
+      "Website": "Musique Concr?te, Avantgarde, Symphonic Rock, Rhythm & Blues, Psychedelic Rock, Experimental, Parody"
     },
     {
       "Number": 247,
@@ -1974,7 +1974,7 @@
       "Album": "Live/Dead",
       "Artist": "The Grateful Dead",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock, Psychedelic Rock, Experimental"
+      "Website": "Folk Rock, Country Rock, Psychedelic Rock, Experimental"
     },
     {
       "Number": 248,
@@ -1982,7 +1982,7 @@
       "Album": "The Shape of Jazz to Come",
       "Artist": "Ornette Coleman",
       "Genre": "Jazz",
-      "Subgenre": "Free Jazz"
+      "Website": "Free Jazz"
     },
     {
       "Number": 249,
@@ -1990,7 +1990,7 @@
       "Album": "Automatic for the People",
       "Artist": "R.E.M.",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 250,
@@ -1998,7 +1998,7 @@
       "Album": "Reasonable Doubt",
       "Artist": "Jay Z",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 251,
@@ -2006,7 +2006,7 @@
       "Album": "Low",
       "Artist": "David Bowie",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Art Rock, Ambient, Experimental"
+      "Website": "Art Rock, Ambient, Experimental"
     },
     {
       "Number": 252,
@@ -2014,7 +2014,7 @@
       "Album": "The Blueprint",
       "Artist": "Jay Z",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 253,
@@ -2022,7 +2022,7 @@
       "Album": "The River",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Pop Rock, Classic Rock"
+      "Website": "Folk Rock, Pop Rock, Classic Rock"
     },
     {
       "Number": 254,
@@ -2030,7 +2030,7 @@
       "Album": "Complete & Unbelievable: The Otis Redding Dictionary of Soul",
       "Artist": "Otis Redding",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 255,
@@ -2038,7 +2038,7 @@
       "Album": "Metallica (\"The Black Album\")",
       "Artist": "Metallica",
       "Genre": "Rock",
-      "Subgenre": "Heavy Metal"
+      "Website": "Heavy Metal"
     },
     {
       "Number": 256,
@@ -2046,7 +2046,7 @@
       "Album": "Trans Europa Express",
       "Artist": "Kraftwerk",
       "Genre": "Electronic",
-      "Subgenre": "Electro"
+      "Website": "Electro"
     },
     {
       "Number": 257,
@@ -2054,7 +2054,7 @@
       "Album": "Whitney Houston",
       "Artist": "Whitney Houston",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "Synth-pop, Rhythm & Blues"
+      "Website": "Synth-pop, Rhythm & Blues"
     },
     {
       "Number": 258,
@@ -2062,7 +2062,7 @@
       "Album": "The Kinks Are The Village Green Preservation Society",
       "Artist": "The Kinks",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Pop Rock"
+      "Website": "Psychedelic Rock, Pop Rock"
     },
     {
       "Number": 259,
@@ -2070,7 +2070,7 @@
       "Album": "The Velvet Rope",
       "Artist": "Janet",
       "Genre": "Electronic, Funk / Soul, Pop",
-      "Subgenre": "RnB/Swing, Downtempo"
+      "Website": "RnB/Swing, Downtempo"
     },
     {
       "Number": 260,
@@ -2078,7 +2078,7 @@
       "Album": "Stardust",
       "Artist": "Willie Nelson",
       "Genre": "Pop, Folk, World, & Country",
-      "Subgenre": "Vocal"
+      "Website": "Vocal"
     },
     {
       "Number": 261,
@@ -2086,7 +2086,7 @@
       "Album": "American Beauty",
       "Artist": "Grateful Dead",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock"
+      "Website": "Folk Rock"
     },
     {
       "Number": 262,
@@ -2094,7 +2094,7 @@
       "Album": "Crosby, Stills & Nash",
       "Artist": "Crosby, Stills & Nash",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Folk Rock, Classic Rock"
+      "Website": "Folk Rock, Classic Rock"
     },
     {
       "Number": 263,
@@ -2102,7 +2102,7 @@
       "Album": "Tracy Chapman",
       "Artist": "Tracy Chapman",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 264,
@@ -2110,7 +2110,7 @@
       "Album": "Workingman's Dead",
       "Artist": "Grateful Dead",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+      "Website": "Folk Rock, Country Rock, Classic Rock"
     },
     {
       "Number": 265,
@@ -2118,7 +2118,7 @@
       "Album": "The Genius of Ray Charles",
       "Artist": "Ray Charles",
       "Genre": "Jazz, Pop",
-      "Subgenre": "Soul-Jazz, Big Band"
+      "Website": "Soul-Jazz, Big Band"
     },
     {
       "Number": 266,
@@ -2126,7 +2126,7 @@
       "Album": "Child Is Father to the Man",
       "Artist": "Blood, Sweat & Tears",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Jazz-Rock, Classic Rock"
+      "Website": "Blues Rock, Jazz-Rock, Classic Rock"
     },
     {
       "Number": 267,
@@ -2134,7 +2134,7 @@
       "Album": "Quadrophenia",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Classic Rock, Mod"
+      "Website": "Hard Rock, Classic Rock, Mod"
     },
     {
       "Number": 268,
@@ -2142,7 +2142,7 @@
       "Album": "Paul Simon",
       "Artist": "Paul Simon",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Pop Rock"
+      "Website": "Folk Rock, Pop Rock"
     },
     {
       "Number": 269,
@@ -2150,7 +2150,7 @@
       "Album": "Psychocandy",
       "Artist": "The Jesus and Mary Chain",
       "Genre": "Rock",
-      "Subgenre": "Noise"
+      "Website": "Noise"
     },
     {
       "Number": 270,
@@ -2158,7 +2158,7 @@
       "Album": "Some Girls",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock, Disco"
+      "Website": "Blues Rock, Rock & Roll, Classic Rock, Disco"
     },
     {
       "Number": 271,
@@ -2166,7 +2166,7 @@
       "Album": "The Beach Boys Today!",
       "Artist": "The Beach Boys",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Psychedelic Rock"
+      "Website": "Pop Rock, Psychedelic Rock"
     },
     {
       "Number": 272,
@@ -2174,7 +2174,7 @@
       "Album": "Dig Me Out",
       "Artist": "Sleater Kinney",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 273,
@@ -2182,7 +2182,7 @@
       "Album": "Going to a Go-Go",
       "Artist": "Smokey Robinson & The Miracles",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 274,
@@ -2190,7 +2190,7 @@
       "Album": "Nightbirds",
       "Artist": "LaBelle",
       "Genre": "Funk / Soul",
-      "Subgenre": "Funk, Disco"
+      "Website": "Funk, Disco"
     },
     {
       "Number": 275,
@@ -2198,7 +2198,7 @@
       "Album": "The Slim Shady LP",
       "Artist": "Eminem",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 276,
@@ -2206,7 +2206,7 @@
       "Album": "Mothership Connection",
       "Artist": "Parliament",
       "Genre": "Funk / Soul",
-      "Subgenre": "P.Funk, Funk"
+      "Website": "P.Funk, Funk"
     },
     {
       "Number": 277,
@@ -2214,7 +2214,7 @@
       "Album": "Rhythm Nation 1814",
       "Artist": "Janet Jackson",
       "Genre": "Electronic, Hip Hop, Pop",
-      "Subgenre": "RnB/Swing, Downtempo, Synth-pop"
+      "Website": "RnB/Swing, Downtempo, Synth-pop"
     },
     {
       "Number": 278,
@@ -2222,7 +2222,7 @@
       "Album": "Anthology of American Folk Music",
       "Artist": "Various",
       "Genre": "Blues, Folk, World, & Country",
-      "Subgenre": "Cajun, Country, Field Recording, Gospel, Delta Blues, Folk"
+      "Website": "Cajun, Country, Field Recording, Gospel, Delta Blues, Folk"
     },
     {
       "Number": 279,
@@ -2230,7 +2230,7 @@
       "Album": "Aladdin Sane",
       "Artist": "David Bowie",
       "Genre": "Rock",
-      "Subgenre": "Glam"
+      "Website": "Glam"
     },
     {
       "Number": 280,
@@ -2238,7 +2238,7 @@
       "Album": "All That You Can't Leave Behind",
       "Artist": "U2",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 281,
@@ -2246,7 +2246,7 @@
       "Album": "My Life",
       "Artist": "Mary J. Blige",
       "Genre": "Hip Hop",
-      "Subgenre": "RnB/Swing"
+      "Website": "RnB/Swing"
     },
     {
       "Number": 282,
@@ -2254,7 +2254,7 @@
       "Album": "Folk Singer",
       "Artist": "Muddy Waters",
       "Genre": "Blues",
-      "Subgenre": "Delta Blues"
+      "Website": "Delta Blues"
     },
     {
       "Number": 283,
@@ -2262,7 +2262,7 @@
       "Album": "Can't Get Enough",
       "Artist": "Barry White",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Disco"
+      "Website": "Soul, Disco"
     },
     {
       "Number": 284,
@@ -2270,7 +2270,7 @@
       "Album": "The Cars",
       "Artist": "The Cars",
       "Genre": "Electronic, Rock",
-      "Subgenre": "New Wave, Pop Rock, Synth-pop"
+      "Website": "New Wave, Pop Rock, Synth-pop"
     },
     {
       "Number": 285,
@@ -2278,7 +2278,7 @@
       "Album": "Music of My Mind",
       "Artist": "Stevie Wonder",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul-Jazz, Soul"
+      "Website": "Soul-Jazz, Soul"
     },
     {
       "Number": 286,
@@ -2286,7 +2286,7 @@
       "Album": "I'm Still in Love With You",
       "Artist": "Al Green",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 287,
@@ -2294,7 +2294,7 @@
       "Album": "Los Angeles",
       "Artist": "X",
       "Genre": "Rock",
-      "Subgenre": "Punk, Rock & Roll"
+      "Website": "Punk, Rock & Roll"
     },
     {
       "Number": 288,
@@ -2302,7 +2302,7 @@
       "Album": "Anthem of the Sun",
       "Artist": "Grateful Dead",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 289,
@@ -2310,7 +2310,7 @@
       "Album": "Something Else by The Kinks",
       "Artist": "The Kinks",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Psychedelic Rock, Mod"
+      "Website": "Pop Rock, Psychedelic Rock, Mod"
     },
     {
       "Number": 290,
@@ -2318,7 +2318,7 @@
       "Album": "Call Me",
       "Artist": "Al Green",
       "Genre": "Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 291,
@@ -2326,7 +2326,7 @@
       "Album": "Talking Heads: 77",
       "Artist": "Talking Heads",
       "Genre": "Rock",
-      "Subgenre": "New Wave"
+      "Website": "New Wave"
     },
     {
       "Number": 292,
@@ -2334,7 +2334,7 @@
       "Album": "The Basement Tapes",
       "Artist": "Bob Dylan and the Band",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock, Classic Rock"
+      "Website": "Folk Rock, Country Rock, Classic Rock"
     },
     {
       "Number": 293,
@@ -2342,7 +2342,7 @@
       "Album": "White Light/White Heat",
       "Artist": "The Velvet Underground",
       "Genre": "Rock",
-      "Subgenre": "Avantgarde, Experimental"
+      "Website": "Avantgarde, Experimental"
     },
     {
       "Number": 294,
@@ -2350,7 +2350,7 @@
       "Album": "Kick Out the Jams",
       "Artist": "MC5",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Hard Rock, Punk, Blues Rock"
+      "Website": "Garage Rock, Hard Rock, Punk, Blues Rock"
     },
     {
       "Number": 295,
@@ -2358,7 +2358,7 @@
       "Album": "Songs of Love and Hate",
       "Artist": "Leonard Cohen",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Folk Rock, Folk, Ballad"
+      "Website": "Folk Rock, Folk, Ballad"
     },
     {
       "Number": 296,
@@ -2366,7 +2366,7 @@
       "Album": "Meat Is Murder",
       "Artist": "The Smiths",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Indie Rock"
+      "Website": "Alternative Rock, Indie Rock"
     },
     {
       "Number": 297,
@@ -2374,7 +2374,7 @@
       "Album": "We're Only in It for the Money",
       "Artist": "The Mothers of Invention",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody"
+      "Website": "Modern Classical, Avantgarde, Psychedelic Rock, Experimental, Parody"
     },
     {
       "Number": 298,
@@ -2382,7 +2382,7 @@
       "Album": "The College Dropout",
       "Artist": "Kanye West",
       "Genre": "Hip Hop",
-      "Subgenre": "Pop Rap, Conscious, Contemporary R&B"
+      "Website": "Pop Rap, Conscious, Contemporary R&B"
     },
     {
       "Number": 299,
@@ -2390,7 +2390,7 @@
       "Album": "Weezer (Blue Album)",
       "Artist": "Weezer",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Emo"
+      "Website": "Alternative Rock, Emo"
     },
     {
       "Number": 300,
@@ -2398,7 +2398,7 @@
       "Album": "Master of Reality",
       "Artist": "Black Sabbath",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Heavy Metal"
+      "Website": "Hard Rock, Heavy Metal"
     },
     {
       "Number": 301,
@@ -2406,7 +2406,7 @@
       "Album": "Coat of Many Colors",
       "Artist": "Dolly Parton",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 302,
@@ -2414,7 +2414,7 @@
       "Album": "Fear of a Black Planet",
       "Artist": "Public Enemy",
       "Genre": "Hip Hop",
-      "Subgenre": "Conscious"
+      "Website": "Conscious"
     },
     {
       "Number": 303,
@@ -2422,7 +2422,7 @@
       "Album": "John Wesley Harding",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Country Rock"
+      "Website": "Folk Rock, Country Rock"
     },
     {
       "Number": 304,
@@ -2430,7 +2430,7 @@
       "Album": "Grace",
       "Artist": "Jeff Buckley",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Folk Rock"
+      "Website": "Alternative Rock, Folk Rock"
     },
     {
       "Number": 305,
@@ -2438,7 +2438,7 @@
       "Album": "Car Wheels on a Gravel Road",
       "Artist": "Lucinda Williams",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country, Folk"
+      "Website": "Country, Folk"
     },
     {
       "Number": 306,
@@ -2446,7 +2446,7 @@
       "Album": "Odelay",
       "Artist": "Beck",
       "Genre": "Electronic, Hip Hop, Funk / Soul, Pop",
-      "Subgenre": "Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract"
+      "Website": "Electro, Downtempo, Hip Hop, Disco, Afrobeat, Abstract"
     },
     {
       "Number": 307,
@@ -2454,7 +2454,7 @@
       "Album": "A Hard Day's Night",
       "Artist": "The Beatles",
       "Genre": "Rock, Stage & Screen",
-      "Subgenre": "Soundtrack, Beat, Pop Rock"
+      "Website": "Soundtrack, Beat, Pop Rock"
     },
     {
       "Number": 308,
@@ -2462,7 +2462,7 @@
       "Album": "Songs for Swingin' Lovers!",
       "Artist": "Frank Sinatra",
       "Genre": "Jazz, Pop",
-      "Subgenre": "Vocal, Easy Listening"
+      "Website": "Vocal, Easy Listening"
     },
     {
       "Number": 309,
@@ -2470,7 +2470,7 @@
       "Album": "Willy and the Poor Boys",
       "Artist": "Creedence Clearwater Revival",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Rock & Roll, Classic Rock"
+      "Website": "Blues Rock, Rock & Roll, Classic Rock"
     },
     {
       "Number": 310,
@@ -2478,7 +2478,7 @@
       "Album": "Blood Sugar Sex Magik",
       "Artist": "Red Hot Chili Peppers",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Funk Metal"
+      "Website": "Alternative Rock, Funk Metal"
     },
     {
       "Number": 311,
@@ -2486,7 +2486,7 @@
       "Album": "The Sun Records Collection",
       "Artist": "Various",
       "Genre": "Rock, Funk / Soul, Blues, Pop, Folk, World, & Country",
-      "Subgenre": "Country Blues, Rock & Roll, Rockabilly"
+      "Website": "Country Blues, Rock & Roll, Rockabilly"
     },
     {
       "Number": 312,
@@ -2494,7 +2494,7 @@
       "Album": "Nothing's Shocking",
       "Artist": "Jane's Addiction",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 313,
@@ -2502,7 +2502,7 @@
       "Album": "MTV Unplugged in New York",
       "Artist": "Nirvana",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Acoustic, Grunge"
+      "Website": "Folk Rock, Acoustic, Grunge"
     },
     {
       "Number": 314,
@@ -2510,7 +2510,7 @@
       "Album": "The Miseducation of Lauryn Hill",
       "Artist": "Lauryn Hill",
       "Genre": "Hip Hop",
-      "Subgenre": "RnB/Swing, Conscious"
+      "Website": "RnB/Swing, Conscious"
     },
     {
       "Number": 315,
@@ -2518,7 +2518,7 @@
       "Album": "Damn the Torpedoes",
       "Artist": "Tom Petty and the Heartbreakers",
       "Genre": "Rock",
-      "Subgenre": "Soft Rock, Hard Rock, Pop Rock"
+      "Website": "Soft Rock, Hard Rock, Pop Rock"
     },
     {
       "Number": 316,
@@ -2526,7 +2526,7 @@
       "Album": "The Velvet Underground",
       "Artist": "The Velvet Underground",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Art Rock, Experimental"
+      "Website": "Garage Rock, Art Rock, Experimental"
     },
     {
       "Number": 317,
@@ -2534,7 +2534,7 @@
       "Album": "Surfer Rosa",
       "Artist": "Pixies",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 318,
@@ -2542,7 +2542,7 @@
       "Album": "Back Stabbers",
       "Artist": "The O'Jays",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 319,
@@ -2550,7 +2550,7 @@
       "Album": "Burnin'",
       "Artist": "The Wailers",
       "Genre": "Reggae",
-      "Subgenre": "Reggae"
+      "Website": "Reggae"
     },
     {
       "Number": 320,
@@ -2558,7 +2558,7 @@
       "Album": "Amnesiac",
       "Artist": "Radiohead",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Alternative Rock, Experimental"
+      "Website": "Alternative Rock, Experimental"
     },
     {
       "Number": 321,
@@ -2566,7 +2566,7 @@
       "Album": "Pink Moon",
       "Artist": "Nick Drake",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Folk, Folk Rock, Acoustic"
+      "Website": "Folk, Folk Rock, Acoustic"
     },
     {
       "Number": 322,
@@ -2574,7 +2574,7 @@
       "Album": "Sail Away",
       "Artist": "Randy Newman",
       "Genre": "Rock, Pop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 323,
@@ -2582,7 +2582,7 @@
       "Album": "Ghost in the Machine",
       "Artist": "The Police",
       "Genre": "Rock, Pop",
-      "Subgenre": "Alternative Rock, New Wave, Pop Rock"
+      "Website": "Alternative Rock, New Wave, Pop Rock"
     },
     {
       "Number": 324,
@@ -2590,7 +2590,7 @@
       "Album": "Station to Station",
       "Artist": "David Bowie",
       "Genre": "Rock, Funk / Soul",
-      "Subgenre": "Classic Rock, Soul, Funk, Art Rock"
+      "Website": "Classic Rock, Soul, Funk, Art Rock"
     },
     {
       "Number": 325,
@@ -2598,7 +2598,7 @@
       "Album": "Slowhand",
       "Artist": "Eric Clapton",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 326,
@@ -2606,7 +2606,7 @@
       "Album": "Disintegration",
       "Artist": "The Cure",
       "Genre": "Electronic, Rock",
-      "Subgenre": "New Wave, Alternative Rock"
+      "Website": "New Wave, Alternative Rock"
     },
     {
       "Number": 327,
@@ -2614,7 +2614,7 @@
       "Album": "Exile in Guyville",
       "Artist": "Liz Phair",
       "Genre": "Rock",
-      "Subgenre": "Lo-Fi, Indie Rock"
+      "Website": "Lo-Fi, Indie Rock"
     },
     {
       "Number": 328,
@@ -2622,7 +2622,7 @@
       "Album": "Daydream Nation",
       "Artist": "Sonic Youth",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Indie Rock"
+      "Website": "Alternative Rock, Indie Rock"
     },
     {
       "Number": 329,
@@ -2630,7 +2630,7 @@
       "Album": "In the Jungle Groove",
       "Artist": "James Brown",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Funk"
+      "Website": "Soul, Funk"
     },
     {
       "Number": 330,
@@ -2638,7 +2638,7 @@
       "Album": "Tonight's the Night",
       "Artist": "Neil Young",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Folk Rock, Classic Rock"
+      "Website": "Blues Rock, Folk Rock, Classic Rock"
     },
     {
       "Number": 331,
@@ -2646,7 +2646,7 @@
       "Album": "Help!",
       "Artist": "The Beatles",
       "Genre": "Rock, Stage & Screen",
-      "Subgenre": "Beat, Soundtrack, Pop Rock"
+      "Website": "Beat, Soundtrack, Pop Rock"
     },
     {
       "Number": 332,
@@ -2654,7 +2654,7 @@
       "Album": "Shoot Out the Lights",
       "Artist": "Richard & Linda Thompson",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Folk Rock"
+      "Website": "Folk Rock"
     },
     {
       "Number": 333,
@@ -2662,7 +2662,7 @@
       "Album": "Wild Gift",
       "Artist": "X",
       "Genre": "Rock",
-      "Subgenre": "Rock & Roll, Punk"
+      "Website": "Rock & Roll, Punk"
     },
     {
       "Number": 334,
@@ -2670,7 +2670,7 @@
       "Album": "Squeezing Out Sparks",
       "Artist": "Graham Parker & The Rumour",
       "Genre": "Rock, Blues",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 335,
@@ -2678,7 +2678,7 @@
       "Album": "Superunknown",
       "Artist": "Soundgarden",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 336,
@@ -2686,7 +2686,7 @@
       "Album": "In Rainbows",
       "Artist": "Radiohead",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Alternative Rock, Art Rock"
+      "Website": "Alternative Rock, Art Rock"
     },
     {
       "Number": 337,
@@ -2694,7 +2694,7 @@
       "Album": "Aqualung",
       "Artist": "Jethro Tull",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Prog Rock"
+      "Website": "Classic Rock, Prog Rock"
     },
     {
       "Number": 338,
@@ -2702,7 +2702,7 @@
       "Album": "Cheap Thrills",
       "Artist": "Big Brother & the Holding Company",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Blues Rock, Psychedelic Rock"
+      "Website": "Folk Rock, Blues Rock, Psychedelic Rock"
     },
     {
       "Number": 339,
@@ -2710,7 +2710,7 @@
       "Album": "The Heart of Saturday Night",
       "Artist": "Tom Waits",
       "Genre": "Jazz, Pop, Folk, World, & Country",
-      "Subgenre": "Contemporary Jazz, Spoken Word"
+      "Website": "Contemporary Jazz, Spoken Word"
     },
     {
       "Number": 340,
@@ -2718,7 +2718,7 @@
       "Album": "Damaged",
       "Artist": "Black Flag",
       "Genre": "Rock",
-      "Subgenre": "Hardcore, Punk"
+      "Website": "Hardcore, Punk"
     },
     {
       "Number": 341,
@@ -2726,7 +2726,7 @@
       "Album": "Play",
       "Artist": "Moby",
       "Genre": "Electronic",
-      "Subgenre": "Breakbeat, Leftfield, Downtempo"
+      "Website": "Breakbeat, Leftfield, Downtempo"
     },
     {
       "Number": 342,
@@ -2734,7 +2734,7 @@
       "Album": "Violator",
       "Artist": "Depeche Mode",
       "Genre": "Electronic",
-      "Subgenre": "Synth-pop"
+      "Website": "Synth-pop"
     },
     {
       "Number": 343,
@@ -2742,7 +2742,7 @@
       "Album": "Bat Out of Hell",
       "Artist": "Meat Loaf",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 344,
@@ -2750,7 +2750,7 @@
       "Album": "Berlin",
       "Artist": "Lou Reed",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock"
+      "Website": "Hard Rock"
     },
     {
       "Number": 345,
@@ -2758,7 +2758,7 @@
       "Album": "Stop Making Sense",
       "Artist": "Talking Heads",
       "Genre": "Rock, Funk / Soul",
-      "Subgenre": "Funk, Indie Rock, New Wave"
+      "Website": "Funk, Indie Rock, New Wave"
     },
     {
       "Number": 346,
@@ -2766,7 +2766,7 @@
       "Album": "3 Feet High and Rising",
       "Artist": "De La Soul",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 347,
@@ -2774,7 +2774,7 @@
       "Album": "The Piper at the Gates of Dawn",
       "Artist": "Pink Floyd",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 348,
@@ -2782,7 +2782,7 @@
       "Album": "Muddy Waters at Newport 1960",
       "Artist": "Muddy Waters",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Chicago Blues"
+      "Website": "Blues Rock, Chicago Blues"
     },
     {
       "Number": 349,
@@ -2790,7 +2790,7 @@
       "Album": "The Black Album",
       "Artist": "Jay Z",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 350,
@@ -2798,7 +2798,7 @@
       "Album": "Roger the Engineer",
       "Artist": "The Yardbirds",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Pop Rock"
+      "Website": "Blues Rock, Pop Rock"
     },
     {
       "Number": 351,
@@ -2806,7 +2806,7 @@
       "Album": "Rust Never Sleeps",
       "Artist": "Neil Young & Crazy Horse",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Arena Rock"
+      "Website": "Hard Rock, Arena Rock"
     },
     {
       "Number": 352,
@@ -2814,7 +2814,7 @@
       "Album": "Brothers in Arms",
       "Artist": "Dire Straits",
       "Genre": "Rock",
-      "Subgenre": "AOR, Classic Rock"
+      "Website": "AOR, Classic Rock"
     },
     {
       "Number": 353,
@@ -2822,7 +2822,7 @@
       "Album": "My Beautiful Dark Twisted Fantasy",
       "Artist": "Kanye West",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 354,
@@ -2830,7 +2830,7 @@
       "Album": "52nd Street",
       "Artist": "Billy Joel",
       "Genre": "Jazz, Rock, Pop",
-      "Subgenre": "Pop Rock, Ballad, Latin Jazz"
+      "Website": "Pop Rock, Ballad, Latin Jazz"
     },
     {
       "Number": 355,
@@ -2838,7 +2838,7 @@
       "Album": "Having a Rave Up",
       "Artist": "The Yardbirds",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Psychedelic Rock"
+      "Website": "Blues Rock, Psychedelic Rock"
     },
     {
       "Number": 356,
@@ -2846,7 +2846,7 @@
       "Album": "12 Songs",
       "Artist": "Randy Newman",
       "Genre": "Rock, Pop",
-      "Subgenre": "Pop Rock, Vocal"
+      "Website": "Pop Rock, Vocal"
     },
     {
       "Number": 357,
@@ -2854,7 +2854,7 @@
       "Album": "Between the Buttons",
       "Artist": "The Rolling Stones",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Psychedelic Rock, Pop Rock"
+      "Website": "Blues Rock, Psychedelic Rock, Pop Rock"
     },
     {
       "Number": 358,
@@ -2862,7 +2862,7 @@
       "Album": "Sketches of Spain",
       "Artist": "Miles Davis",
       "Genre": "Jazz",
-      "Subgenre": "Modal"
+      "Website": "Modal"
     },
     {
       "Number": 359,
@@ -2870,7 +2870,7 @@
       "Album": "Honky Ch�teau",
       "Artist": "Elton John",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock,�Classic Rock"
+      "Website": "Pop Rock,�Classic Rock"
     },
     {
       "Number": 360,
@@ -2878,7 +2878,7 @@
       "Album": "Singles Going Steady",
       "Artist": "Buzzcocks",
       "Genre": "Rock",
-      "Subgenre": "Punk"
+      "Website": "Punk"
     },
     {
       "Number": 361,
@@ -2886,7 +2886,7 @@
       "Album": "Stankonia",
       "Artist": "OutKast",
       "Genre": "Hip Hop, Funk / Soul",
-      "Subgenre": "Gangsta, P.Funk, Crunk, Conscious"
+      "Website": "Gangsta, P.Funk, Crunk, Conscious"
     },
     {
       "Number": 362,
@@ -2894,7 +2894,7 @@
       "Album": "Siamese Dream",
       "Artist": "The Smashing Pumpkins",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 363,
@@ -2902,7 +2902,7 @@
       "Album": "Substance 1987",
       "Artist": "New Order",
       "Genre": "Electronic",
-      "Subgenre": "Synth-pop"
+      "Website": "Synth-pop"
     },
     {
       "Number": 364,
@@ -2910,7 +2910,7 @@
       "Album": "L.A. Woman",
       "Artist": "The Doors",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Classic Rock"
+      "Website": "Blues Rock, Classic Rock"
     },
     {
       "Number": 365,
@@ -2918,7 +2918,7 @@
       "Album": "Rage Against the Machine",
       "Artist": "Rage Against the Machine",
       "Genre": "Hip Hop, Rock",
-      "Subgenre": "Funk Metal"
+      "Website": "Funk Metal"
     },
     {
       "Number": 366,
@@ -2926,7 +2926,7 @@
       "Album": "American Recordings",
       "Artist": "Johnny Cash",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country, Gospel, Folk"
+      "Website": "Country, Gospel, Folk"
     },
     {
       "Number": 367,
@@ -2934,7 +2934,7 @@
       "Album": "Ray of Light",
       "Artist": "Madonna",
       "Genre": "Electronic, Pop",
-      "Subgenre": "House, Techno, Downtempo, Vocal, Ambient"
+      "Website": "House, Techno, Downtempo, Vocal, Ambient"
     },
     {
       "Number": 368,
@@ -2942,7 +2942,7 @@
       "Album": "Eagles",
       "Artist": "Eagles",
       "Genre": "Rock",
-      "Subgenre": "Country Rock, Classic Rock"
+      "Website": "Country Rock, Classic Rock"
     },
     {
       "Number": 369,
@@ -2950,7 +2950,7 @@
       "Album": "Louder Than Bombs",
       "Artist": "The Smiths",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Indie Rock"
+      "Website": "Alternative Rock, Indie Rock"
     },
     {
       "Number": 370,
@@ -2958,7 +2958,7 @@
       "Album": "Mott",
       "Artist": "Mott the Hoople",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 371,
@@ -2966,7 +2966,7 @@
       "Album": "Whatever People Say I Am, That's What I'm Not",
       "Artist": "Arctic Monkeys",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 372,
@@ -2974,7 +2974,7 @@
       "Album": "Reggatta de Blanc",
       "Artist": "The Police",
       "Genre": "Rock, Pop",
-      "Subgenre": "New Wave, Pop Rock"
+      "Website": "New Wave, Pop Rock"
     },
     {
       "Number": 373,
@@ -2982,7 +2982,7 @@
       "Album": "Volunteers",
       "Artist": "Jefferson Airplane",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk"
+      "Website": "Psychedelic Rock, Folk Rock, Country Rock, Honky Tonk"
     },
     {
       "Number": 374,
@@ -2990,7 +2990,7 @@
       "Album": "Siren",
       "Artist": "Roxy Music",
       "Genre": "Rock",
-      "Subgenre": "Art Rock, Pop Rock, Glam"
+      "Website": "Art Rock, Pop Rock, Glam"
     },
     {
       "Number": 375,
@@ -2998,7 +2998,7 @@
       "Album": "Late for the Sky",
       "Artist": "Jackson Browne",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 376,
@@ -3006,7 +3006,7 @@
       "Album": "Post",
       "Artist": "Bjork",
       "Genre": "Electronic",
-      "Subgenre": "Breakbeat, IDM, Electro"
+      "Website": "Breakbeat, IDM, Electro"
     },
     {
       "Number": 377,
@@ -3014,7 +3014,7 @@
       "Album": "The Ultimate Collection: 1948-1990",
       "Artist": "John Lee Hooker",
       "Genre": "Blues",
-      "Subgenre": "Country Blues, Electric Blues, Chicago Blues, Jump Blues"
+      "Website": "Country Blues, Electric Blues, Chicago Blues, Jump Blues"
     },
     {
       "Number": 378,
@@ -3022,7 +3022,7 @@
       "Album": "(What's the Story) Morning Glory?",
       "Artist": "Oasis",
       "Genre": "Rock, Pop",
-      "Subgenre": "Brit Pop"
+      "Website": "Brit Pop"
     },
     {
       "Number": 379,
@@ -3030,7 +3030,7 @@
       "Album": "CrazySexyCool",
       "Artist": "TLC",
       "Genre": "Electronic, Hip Hop, Funk / Soul",
-      "Subgenre": "RnB/Swing"
+      "Website": "RnB/Swing"
     },
     {
       "Number": 380,
@@ -3038,7 +3038,7 @@
       "Album": "Funky Kingston",
       "Artist": "Toots & The Maytals",
       "Genre": "Reggae",
-      "Subgenre": "Reggae Gospel, Reggae, Roots Reggae, Rocksteady"
+      "Website": "Reggae Gospel, Reggae, Roots Reggae, Rocksteady"
     },
     {
       "Number": 381,
@@ -3046,7 +3046,7 @@
       "Album": "The Smile Sessions",
       "Artist": "The Beach Boys",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Psychedelic Rock"
+      "Website": "Pop Rock, Psychedelic Rock"
     },
     {
       "Number": 382,
@@ -3054,7 +3054,7 @@
       "Album": "The Modern Lovers",
       "Artist": "The Modern Lovers",
       "Genre": "Rock",
-      "Subgenre": "Art Rock, Indie Rock"
+      "Website": "Art Rock, Indie Rock"
     },
     {
       "Number": 383,
@@ -3062,7 +3062,7 @@
       "Album": "More Songs About Buildings and Food",
       "Artist": "Talking Heads",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Indie Rock"
+      "Website": "New Wave, Indie Rock"
     },
     {
       "Number": 384,
@@ -3070,7 +3070,7 @@
       "Album": "A Quick One",
       "Artist": "The Who",
       "Genre": "Rock",
-      "Subgenre": "Mod, Beat, Psychedelic Rock"
+      "Website": "Mod, Beat, Psychedelic Rock"
     },
     {
       "Number": 385,
@@ -3078,7 +3078,7 @@
       "Album": "\"Love and Theft\"",
       "Artist": "Bob Dylan",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Blues Rock"
+      "Website": "Folk Rock, Blues Rock"
     },
     {
       "Number": 386,
@@ -3086,7 +3086,7 @@
       "Album": "Pretzel Logic",
       "Artist": "Steely Dan",
       "Genre": "Jazz, Rock",
-      "Subgenre": "Jazz-Rock, Pop Rock, Classic Rock"
+      "Website": "Jazz-Rock, Pop Rock, Classic Rock"
     },
     {
       "Number": 387,
@@ -3094,7 +3094,7 @@
       "Album": "Enter the Wu_Tang: 36 Chambers",
       "Artist": "Wu Tang Clan",
       "Genre": "Hip Hop",
-      "Subgenre": "Gangsta"
+      "Website": "Gangsta"
     },
     {
       "Number": 388,
@@ -3102,7 +3102,7 @@
       "Album": "The Indestructible Beat of Soweto",
       "Artist": "Various Artists",
       "Genre": "Funk / Soul,�Folk, World, & Country",
-      "Subgenre": "African"
+      "Website": "African"
     },
     {
       "Number": 389,
@@ -3110,7 +3110,7 @@
       "Album": "The End of the Innocence",
       "Artist": "Don Henley",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 390,
@@ -3118,7 +3118,7 @@
       "Album": "Elephant",
       "Artist": "The White Stripes",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Garage Rock, Alternative Rock"
+      "Website": "Blues Rock, Garage Rock, Alternative Rock"
     },
     {
       "Number": 391,
@@ -3126,7 +3126,7 @@
       "Album": "The Pretender",
       "Artist": "Jackson Browne",
       "Genre": "Rock",
-      "Subgenre": "Soft Rock, Pop Rock"
+      "Website": "Soft Rock, Pop Rock"
     },
     {
       "Number": 392,
@@ -3134,7 +3134,7 @@
       "Album": "Let It Be",
       "Artist": "The Beatles",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 393,
@@ -3142,7 +3142,7 @@
       "Album": "Kala",
       "Artist": "M.I.A.",
       "Genre": "Electronic, Hip Hop, Reggae, Pop",
-      "Subgenre": "Grime, Bollywood, Hip Hop, Dancehall"
+      "Website": "Grime, Bollywood, Hip Hop, Dancehall"
     },
     {
       "Number": 394,
@@ -3150,7 +3150,7 @@
       "Album": "Good Old Boys",
       "Artist": "Randy Newman",
       "Genre": "Rock, Pop",
-      "Subgenre": "Pop Rock, Vocal"
+      "Website": "Pop Rock, Vocal"
     },
     {
       "Number": 395,
@@ -3158,7 +3158,7 @@
       "Album": "Sound of Silver",
       "Artist": "LCD Soundsystem",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Leftfield, Alternative Rock, Electro, Disco"
+      "Website": "Leftfield, Alternative Rock, Electro, Disco"
     },
     {
       "Number": 396,
@@ -3166,7 +3166,7 @@
       "Album": "For Your Pleasure",
       "Artist": "Roxy Music",
       "Genre": "Rock",
-      "Subgenre": "Art Rock, Avantgarde, Glam"
+      "Website": "Art Rock, Avantgarde, Glam"
     },
     {
       "Number": 397,
@@ -3174,7 +3174,7 @@
       "Album": "Blue Lines",
       "Artist": "Massive Attack",
       "Genre": "Electronic, Reggae",
-      "Subgenre": "Dub, Downtempo"
+      "Website": "Dub, Downtempo"
     },
     {
       "Number": 398,
@@ -3182,7 +3182,7 @@
       "Album": "Eliminator",
       "Artist": "ZZ Top",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 399,
@@ -3190,7 +3190,7 @@
       "Album": "Rain Dogs",
       "Artist": "Tom Waits",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 400,
@@ -3198,7 +3198,7 @@
       "Album": "Anthology: The Best of The Temptations",
       "Artist": "The Temptations",
       "Genre": "Electronic, Funk / Soul",
-      "Subgenre": "Soul, Disco"
+      "Website": "Soul, Disco"
     },
     {
       "Number": 401,
@@ -3206,7 +3206,7 @@
       "Album": "Californication",
       "Artist": "Red Hot Chili Peppers",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Funk Metal"
+      "Website": "Alternative Rock, Funk Metal"
     },
     {
       "Number": 402,
@@ -3214,7 +3214,7 @@
       "Album": "Illmatic",
       "Artist": "Nas",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 403,
@@ -3222,7 +3222,7 @@
       "Album": "(pronounced 'leh-'nerd 'skin-'nerd)",
       "Artist": "Lynyrd Skynyrd",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Hard Rock, Southern Rock"
+      "Website": "Blues Rock, Hard Rock, Southern Rock"
     },
     {
       "Number": 404,
@@ -3230,7 +3230,7 @@
       "Album": "Dr. John's Gumbo",
       "Artist": "Dr. John",
       "Genre": "Funk / Soul",
-      "Subgenre": "Bayou Funk, Funk, Rhythm & Blues"
+      "Website": "Bayou Funk, Funk, Rhythm & Blues"
     },
     {
       "Number": 405,
@@ -3238,7 +3238,7 @@
       "Album": "Radio City",
       "Artist": "Big Star",
       "Genre": "Rock",
-      "Subgenre": "Power Pop"
+      "Website": "Power Pop"
     },
     {
       "Number": 406,
@@ -3246,7 +3246,7 @@
       "Album": "Rid of Me",
       "Artist": "PJ Harvey",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 407,
@@ -3254,7 +3254,7 @@
       "Album": "Sandinista!",
       "Artist": "The Clash",
       "Genre": "Rock, Reggae",
-      "Subgenre": "Rock & Roll, Dub, Punk"
+      "Website": "Rock & Roll, Dub, Punk"
     },
     {
       "Number": 408,
@@ -3262,7 +3262,7 @@
       "Album": "I Do Not Want What I Haven't Got",
       "Artist": "Sinead O'Connor",
       "Genre": "Rock, Funk / Soul, Blues",
-      "Subgenre": "Blues Rock, Rhythm & Blues, Soul"
+      "Website": "Blues Rock, Rhythm & Blues, Soul"
     },
     {
       "Number": 409,
@@ -3270,7 +3270,7 @@
       "Album": "Strange Days",
       "Artist": "The Doors",
       "Genre": "Rock",
-      "Subgenre": "Psychedelic Rock"
+      "Website": "Psychedelic Rock"
     },
     {
       "Number": 410,
@@ -3278,7 +3278,7 @@
       "Album": "Time Out of Mind",
       "Artist": "Bob Dylan",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 411,
@@ -3286,7 +3286,7 @@
       "Album": "461 Ocean Boulevard",
       "Artist": "Eric Clapton",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 412,
@@ -3294,7 +3294,7 @@
       "Album": "Pink Flag",
       "Artist": "Wire",
       "Genre": "Rock",
-      "Subgenre": "Punk"
+      "Website": "Punk"
     },
     {
       "Number": 413,
@@ -3302,7 +3302,7 @@
       "Album": "Double Nickels on the Dime",
       "Artist": "Minutemen",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Hardcore, Punk"
+      "Website": "Alternative Rock, Hardcore, Punk"
     },
     {
       "Number": 414,
@@ -3310,7 +3310,7 @@
       "Album": "Beauty and the Beat",
       "Artist": "The Go Go's",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 415,
@@ -3318,7 +3318,7 @@
       "Album": "Van Halen",
       "Artist": "Van Halen",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock"
+      "Website": "Hard Rock"
     },
     {
       "Number": 416,
@@ -3326,7 +3326,7 @@
       "Album": "Mule Variations",
       "Artist": "Tom Waits",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Abstract, Art Rock"
+      "Website": "Abstract, Art Rock"
     },
     {
       "Number": 417,
@@ -3334,7 +3334,7 @@
       "Album": "Boy",
       "Artist": "U2",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Pop Rock"
+      "Website": "New Wave, Pop Rock"
     },
     {
       "Number": 418,
@@ -3342,7 +3342,7 @@
       "Album": "Band on the Run",
       "Artist": "Paul McCartney & Wings",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 419,
@@ -3350,7 +3350,7 @@
       "Album": "Dummy",
       "Artist": "Portishead",
       "Genre": "Electronic",
-      "Subgenre": "Trip Hop, Downtempo"
+      "Website": "Trip Hop, Downtempo"
     },
     {
       "Number": 420,
@@ -3358,7 +3358,7 @@
       "Album": "The \"Chirping\" Crickets",
       "Artist": "The Crickets",
       "Genre": "Rock, Pop",
-      "Subgenre": "Rockabilly, Rock & Roll"
+      "Website": "Rockabilly, Rock & Roll"
     },
     {
       "Number": 421,
@@ -3366,7 +3366,7 @@
       "Album": "The Best of the Girl Groups, Volume 1",
       "Artist": "Various Artists",
       "Genre": "Rock,�Pop",
-      "Subgenre": "Pop Rock, Vocal"
+      "Website": "Pop Rock, Vocal"
     },
     {
       "Number": 422,
@@ -3374,7 +3374,7 @@
       "Album": "Presenting the Fabulous Ronettes Featuring Veronica",
       "Artist": "The Ronettes",
       "Genre": "Rock, Pop",
-      "Subgenre": "Rock & Roll, Vocal"
+      "Website": "Rock & Roll, Vocal"
     },
     {
       "Number": 423,
@@ -3382,7 +3382,7 @@
       "Album": "Anthology",
       "Artist": "Diana Ross & The Supremes",
       "Genre": "Electronic, Funk / Soul",
-      "Subgenre": "Pop Rock, Soul, Disco"
+      "Website": "Pop Rock, Soul, Disco"
     },
     {
       "Number": 424,
@@ -3390,7 +3390,7 @@
       "Album": "The Rising",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "Folk Rock, Classic Rock"
+      "Website": "Folk Rock, Classic Rock"
     },
     {
       "Number": 425,
@@ -3398,7 +3398,7 @@
       "Album": "Grievous Angel",
       "Artist": "Gram Parsons",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Country Rock, Honky Tonk"
+      "Website": "Country Rock, Honky Tonk"
     },
     {
       "Number": 426,
@@ -3406,7 +3406,7 @@
       "Album": "Cheap Trick at Budokan",
       "Artist": "Cheap Trick",
       "Genre": "Rock",
-      "Subgenre": "Power Pop, Pop Rock, Arena Rock, Hard Rock"
+      "Website": "Power Pop, Pop Rock, Arena Rock, Hard Rock"
     },
     {
       "Number": 427,
@@ -3414,7 +3414,7 @@
       "Album": "Sleepless",
       "Artist": "Peter Wolf",
       "Genre": "Rock, Blues, Pop",
-      "Subgenre": "Blues Rock, Pop Rock, Ballad"
+      "Website": "Blues Rock, Pop Rock, Ballad"
     },
     {
       "Number": 428,
@@ -3422,7 +3422,7 @@
       "Album": "Outlandos d'Amour",
       "Artist": "The Police",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, New Wave, Punk"
+      "Website": "Alternative Rock, New Wave, Punk"
     },
     {
       "Number": 429,
@@ -3430,7 +3430,7 @@
       "Album": "Another Green World",
       "Artist": "Brian Eno",
       "Genre": "Electronic",
-      "Subgenre": "Experimental, Ambient"
+      "Website": "Experimental, Ambient"
     },
     {
       "Number": 430,
@@ -3438,7 +3438,7 @@
       "Album": "Vampire Weekend",
       "Artist": "Vampire Weekend",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 431,
@@ -3446,7 +3446,7 @@
       "Album": "Stories From the City, Stories From the Sea",
       "Artist": "PJ Harvey",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 432,
@@ -3454,7 +3454,7 @@
       "Album": "Here Come the Warm Jets",
       "Artist": "Brian Eno",
       "Genre": "Rock",
-      "Subgenre": "Art Rock, Glam"
+      "Website": "Art Rock, Glam"
     },
     {
       "Number": 433,
@@ -3462,7 +3462,7 @@
       "Album": "All Things Must Pass",
       "Artist": "George Harrison",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 434,
@@ -3470,7 +3470,7 @@
       "Album": "#1 Record",
       "Artist": "Big Star",
       "Genre": "Rock",
-      "Subgenre": "Power Pop"
+      "Website": "Power Pop"
     },
     {
       "Number": 435,
@@ -3478,7 +3478,7 @@
       "Album": "In Utero",
       "Artist": "Nirvana",
       "Genre": "Rock",
-      "Subgenre": "Grunge, Alternative Rock"
+      "Website": "Grunge, Alternative Rock"
     },
     {
       "Number": 436,
@@ -3486,7 +3486,7 @@
       "Album": "Sea Change",
       "Artist": "Beck",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Post Rock"
+      "Website": "Alternative Rock, Post Rock"
     },
     {
       "Number": 437,
@@ -3494,7 +3494,7 @@
       "Album": "Tha Carter III",
       "Artist": "Lil Wayne",
       "Genre": "Hip Hop, Funk / Soul",
-      "Subgenre": "RnB/Swing, Screw, Pop Rap, Thug Rap"
+      "Website": "RnB/Swing, Screw, Pop Rap, Thug Rap"
     },
     {
       "Number": 438,
@@ -3502,7 +3502,7 @@
       "Album": "Boys Don't Cry",
       "Artist": "The Cure",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Post-Punk"
+      "Website": "New Wave, Post-Punk"
     },
     {
       "Number": 439,
@@ -3510,7 +3510,7 @@
       "Album": "Live at the Harlem Square Club, 1963",
       "Artist": "Sam Cooke",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 440,
@@ -3518,7 +3518,7 @@
       "Album": "Rum Sodomy & the Lash",
       "Artist": "The Pogues",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Folk Rock, Celtic, Punk"
+      "Website": "Folk Rock, Celtic, Punk"
     },
     {
       "Number": 441,
@@ -3526,7 +3526,7 @@
       "Album": "Suicide",
       "Artist": "Suicide",
       "Genre": "Electronic, Rock",
-      "Subgenre": "New Wave, Experimental"
+      "Website": "New Wave, Experimental"
     },
     {
       "Number": 442,
@@ -3534,7 +3534,7 @@
       "Album": "Q: Are We Not Men? A: We Are Devo!",
       "Artist": "DEVO",
       "Genre": "Rock",
-      "Subgenre": "New Wave"
+      "Website": "New Wave"
     },
     {
       "Number": 443,
@@ -3542,7 +3542,7 @@
       "Album": "In Color",
       "Artist": "Cheap Trick",
       "Genre": "Rock",
-      "Subgenre": "Power Pop, Pop Rock, Hard Rock"
+      "Website": "Power Pop, Pop Rock, Hard Rock"
     },
     {
       "Number": 444,
@@ -3550,7 +3550,7 @@
       "Album": "The World Is a Ghetto",
       "Artist": "War",
       "Genre": "Funk / Soul",
-      "Subgenre": "Funk"
+      "Website": "Funk"
     },
     {
       "Number": 445,
@@ -3558,7 +3558,7 @@
       "Album": "Fly Like an Eagle",
       "Artist": "Steve Miller Band",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 446,
@@ -3566,7 +3566,7 @@
       "Album": "Back in the USA",
       "Artist": "MC5",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock, Rock & Roll"
+      "Website": "Garage Rock, Rock & Roll"
     },
     {
       "Number": 447,
@@ -3574,7 +3574,7 @@
       "Album": "Getz / Gilberto",
       "Artist": "Stan Getz�/�Joao Gilberto�featuring�Antonio Carlos Jobim",
       "Genre": "Jazz",
-      "Subgenre": "Bossa Nova,�Latin Jazz"
+      "Website": "Bossa Nova,�Latin Jazz"
     },
     {
       "Number": 448,
@@ -3582,7 +3582,7 @@
       "Album": "Synchronicity",
       "Artist": "The Police",
       "Genre": "Rock, Pop",
-      "Subgenre": "New Wave, Pop Rock"
+      "Website": "New Wave, Pop Rock"
     },
     {
       "Number": 449,
@@ -3590,7 +3590,7 @@
       "Album": "Third/Sister Lovers",
       "Artist": "Big Star",
       "Genre": "Rock",
-      "Subgenre": "Lo-Fi,�Indie Rock"
+      "Website": "Lo-Fi,�Indie Rock"
     },
     {
       "Number": 450,
@@ -3598,7 +3598,7 @@
       "Album": "For Everyman",
       "Artist": "Jackson Browne",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock, Classic Rock"
+      "Website": "Pop Rock, Classic Rock"
     },
     {
       "Number": 451,
@@ -3606,7 +3606,7 @@
       "Album": "Back to Black",
       "Artist": "Amy Winehouse",
       "Genre": "Funk / Soul, Pop",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 452,
@@ -3614,7 +3614,7 @@
       "Album": "John Prine",
       "Artist": "John Prine",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country, Folk"
+      "Website": "Country, Folk"
     },
     {
       "Number": 453,
@@ -3622,7 +3622,7 @@
       "Album": "Strictly Business",
       "Artist": "EPMD",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 454,
@@ -3630,7 +3630,7 @@
       "Album": "Love It to Death",
       "Artist": "Alice Cooper",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock"
+      "Website": "Classic Rock"
     },
     {
       "Number": 455,
@@ -3638,7 +3638,7 @@
       "Album": "How Will the Wolf Survive?",
       "Artist": "Los Lobos",
       "Genre": "Rock, Latin",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 456,
@@ -3646,7 +3646,7 @@
       "Album": "Here, My Dear",
       "Artist": "Marvin Gaye",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul"
+      "Website": "Soul"
     },
     {
       "Number": 457,
@@ -3654,7 +3654,7 @@
       "Album": "Z",
       "Artist": "My Morning Jacket",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 458,
@@ -3662,7 +3662,7 @@
       "Album": "Tumbleweed Connection",
       "Artist": "Elton John",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Soft Rock, Country Rock"
+      "Website": "Soft Rock, Country Rock"
     },
     {
       "Number": 459,
@@ -3670,7 +3670,7 @@
       "Album": "The Drifters' Golden Hits",
       "Artist": "The Drifters",
       "Genre": "Rock, Funk / Soul",
-      "Subgenre": "Rhythm & Blues, Soul"
+      "Website": "Rhythm & Blues, Soul"
     },
     {
       "Number": 460,
@@ -3678,7 +3678,7 @@
       "Album": "Live Through This",
       "Artist": "Hole",
       "Genre": "Rock",
-      "Subgenre": "Grunge"
+      "Website": "Grunge"
     },
     {
       "Number": 461,
@@ -3686,7 +3686,7 @@
       "Album": "Metal Box",
       "Artist": "Public Image Ltd.",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Post-Punk, Dub, Avantgarde, Experimental"
+      "Website": "Post-Punk, Dub, Avantgarde, Experimental"
     },
     {
       "Number": 462,
@@ -3694,7 +3694,7 @@
       "Album": "Document",
       "Artist": "R.E.M.",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 463,
@@ -3702,7 +3702,7 @@
       "Album": "Heaven Up Here",
       "Artist": "Echo and The Bunnymen",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Indie Rock"
+      "Website": "New Wave, Indie Rock"
     },
     {
       "Number": 464,
@@ -3710,7 +3710,7 @@
       "Album": "Hysteria",
       "Artist": "Def Leppard",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock, Arena Rock"
+      "Website": "Hard Rock, Arena Rock"
     },
     {
       "Number": 465,
@@ -3718,7 +3718,7 @@
       "Album": "69 Love Songs",
       "Artist": "The Magnetic Fields",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Synth-pop, Indie Rock"
+      "Website": "Synth-pop, Indie Rock"
     },
     {
       "Number": 466,
@@ -3726,7 +3726,7 @@
       "Album": "A Rush of Blood to the Head",
       "Artist": "Coldplay",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Pop Rock"
+      "Website": "Alternative Rock, Pop Rock"
     },
     {
       "Number": 467,
@@ -3734,7 +3734,7 @@
       "Album": "Tunnel of Love",
       "Artist": "Bruce Springsteen",
       "Genre": "Rock",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 468,
@@ -3742,7 +3742,7 @@
       "Album": "The Paul Butterfield Blues Band",
       "Artist": "The Paul Butterfield Blues Band",
       "Genre": "Rock, Blues",
-      "Subgenre": "Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues"
+      "Website": "Blues Rock, Electric Blues, Chicago Blues, Modern Electric Blues, Harmonica Blues"
     },
     {
       "Number": 469,
@@ -3750,7 +3750,7 @@
       "Album": "The Score",
       "Artist": "Fugees",
       "Genre": "Hip Hop",
-      "Subgenre": "Pop Rap, Conscious"
+      "Website": "Pop Rap, Conscious"
     },
     {
       "Number": 470,
@@ -3758,7 +3758,7 @@
       "Album": "Radio",
       "Artist": "L.L. Cool J",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 471,
@@ -3766,7 +3766,7 @@
       "Album": "I Want to See the Bright Lights Tonight",
       "Artist": "Richard & Linda Thompson",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Folk Rock"
+      "Website": "Classic Rock, Folk Rock"
     },
     {
       "Number": 472,
@@ -3774,7 +3774,7 @@
       "Album": "Faith",
       "Artist": "George Michael",
       "Genre": "Electronic, Rock, Funk / Soul, Blues, Pop",
-      "Subgenre": "Downtempo, Soft Rock, Pop Rock, Synth-pop"
+      "Website": "Downtempo, Soft Rock, Pop Rock, Synth-pop"
     },
     {
       "Number": 473,
@@ -3782,7 +3782,7 @@
       "Album": "The Smiths",
       "Artist": "The Smiths",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 474,
@@ -3790,7 +3790,7 @@
       "Album": "Proxima estacion: Esperanza",
       "Artist": "Manu Chao",
       "Genre": "Rock, Reggae, Latin",
-      "Subgenre": "Folk Rock, Reggae, Reggae-Pop"
+      "Website": "Folk Rock, Reggae, Reggae-Pop"
     },
     {
       "Number": 475,
@@ -3798,7 +3798,7 @@
       "Album": "Armed Forces",
       "Artist": "Elvis Costello & The Attractions",
       "Genre": "Rock",
-      "Subgenre": "New Wave, Pop Rock"
+      "Website": "New Wave, Pop Rock"
     },
     {
       "Number": 476,
@@ -3806,7 +3806,7 @@
       "Album": "Life After Death",
       "Artist": "The Notorious B.I.G.",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 477,
@@ -3814,7 +3814,7 @@
       "Album": "Down Every Road",
       "Artist": "Merle Haggard",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 478,
@@ -3822,7 +3822,7 @@
       "Album": "All Time Greatest Hits",
       "Artist": "Loretta Lynn",
       "Genre": "Folk, World, & Country",
-      "Subgenre": "Country"
+      "Website": "Country"
     },
     {
       "Number": 479,
@@ -3830,7 +3830,7 @@
       "Album": "Maggot Brain",
       "Artist": "Funkadelic",
       "Genre": "Rock, Funk / Soul",
-      "Subgenre": "P.Funk, Psychedelic Rock"
+      "Website": "P.Funk, Psychedelic Rock"
     },
     {
       "Number": 480,
@@ -3838,7 +3838,7 @@
       "Album": "Only Built 4 Cuban Linx",
       "Artist": "Raekwon",
       "Genre": "Hip Hop",
-      "Subgenre": "None"
+      "Website": "None"
     },
     {
       "Number": 481,
@@ -3846,7 +3846,7 @@
       "Album": "Voodoo",
       "Artist": "D'Angelo",
       "Genre": "Hip Hop, Funk / Soul",
-      "Subgenre": "Soul, Funk, Neo Soul"
+      "Website": "Soul, Funk, Neo Soul"
     },
     {
       "Number": 482,
@@ -3854,7 +3854,7 @@
       "Album": "Guitar Town",
       "Artist": "Steve Earle",
       "Genre": "Rock, Folk, World, & Country",
-      "Subgenre": "Country, Honky Tonk"
+      "Website": "Country, Honky Tonk"
     },
     {
       "Number": 483,
@@ -3862,7 +3862,7 @@
       "Album": "Entertainment!",
       "Artist": "Gang of Four",
       "Genre": "Rock",
-      "Subgenre": "Post-Punk, New Wave"
+      "Website": "Post-Punk, New Wave"
     },
     {
       "Number": 484,
@@ -3870,7 +3870,7 @@
       "Album": "All the Young Dudes",
       "Artist": "Mott the Hoople",
       "Genre": "Rock",
-      "Subgenre": "Classic Rock, Glam"
+      "Website": "Classic Rock, Glam"
     },
     {
       "Number": 485,
@@ -3878,7 +3878,7 @@
       "Album": "Vitalogy",
       "Artist": "Pearl Jam",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Hard Rock"
+      "Website": "Alternative Rock, Hard Rock"
     },
     {
       "Number": 486,
@@ -3886,7 +3886,7 @@
       "Album": "That's the Way of the World",
       "Artist": "Earth, Wind & Fire",
       "Genre": "Funk / Soul",
-      "Subgenre": "Soul, Funk, Disco"
+      "Website": "Soul, Funk, Disco"
     },
     {
       "Number": 487,
@@ -3894,7 +3894,7 @@
       "Album": "She's So Unusual",
       "Artist": "Cyndi Lauper",
       "Genre": "Electronic, Rock",
-      "Subgenre": "Pop Rock, Synth-pop"
+      "Website": "Pop Rock, Synth-pop"
     },
     {
       "Number": 488,
@@ -3902,7 +3902,7 @@
       "Album": "New Day Rising",
       "Artist": "Husker Du",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock, Hardcore, Punk"
+      "Website": "Alternative Rock, Hardcore, Punk"
     },
     {
       "Number": 489,
@@ -3910,7 +3910,7 @@
       "Album": "Destroyer",
       "Artist": "KISS",
       "Genre": "Rock",
-      "Subgenre": "Hard Rock"
+      "Website": "Hard Rock"
     },
     {
       "Number": 490,
@@ -3918,7 +3918,7 @@
       "Album": "Tres hombres",
       "Artist": "ZZ Top",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock, Classic Rock"
+      "Website": "Blues Rock, Classic Rock"
     },
     {
       "Number": 491,
@@ -3926,7 +3926,7 @@
       "Album": "Born Under a Bad Sign",
       "Artist": "Albert King",
       "Genre": "Funk / Soul, Blues",
-      "Subgenre": "Electric Blues, Rhythm & Blues, Soul"
+      "Website": "Electric Blues, Rhythm & Blues, Soul"
     },
     {
       "Number": 492,
@@ -3934,7 +3934,7 @@
       "Album": "Touch",
       "Artist": "Eurythmics",
       "Genre": "Electronic, Pop",
-      "Subgenre": "New Wave, Synth-pop"
+      "Website": "New Wave, Synth-pop"
     },
     {
       "Number": 493,
@@ -3942,7 +3942,7 @@
       "Album": "Yankee Hotel Foxtrot",
       "Artist": "Wilco",
       "Genre": "Rock",
-      "Subgenre": "Alternative Rock"
+      "Website": "Alternative Rock"
     },
     {
       "Number": 494,
@@ -3950,7 +3950,7 @@
       "Album": "Oracular Spectacular",
       "Artist": "MGMT",
       "Genre": "Electronic, Rock, Pop",
-      "Subgenre": "Synth-pop, Indie Rock"
+      "Website": "Synth-pop, Indie Rock"
     },
     {
       "Number": 495,
@@ -3958,7 +3958,7 @@
       "Album": "Give It Up",
       "Artist": "Bonnie Raitt",
       "Genre": "Rock",
-      "Subgenre": "Blues Rock"
+      "Website": "Blues Rock"
     },
     {
       "Number": 496,
@@ -3966,7 +3966,7 @@
       "Album": "Boz Scaggs",
       "Artist": "Boz Scaggs",
       "Genre": "Rock",
-      "Subgenre": "Pop Rock"
+      "Website": "Pop Rock"
     },
     {
       "Number": 497,
@@ -3974,7 +3974,7 @@
       "Album": "White Blood Cells",
       "Artist": "The White Stripes",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock, Alternative Rock, Blues Rock, Garage Rock"
+      "Website": "Indie Rock, Alternative Rock, Blues Rock, Garage Rock"
     },
     {
       "Number": 498,
@@ -3982,7 +3982,7 @@
       "Album": "The Stone Roses",
       "Artist": "The Stone Roses",
       "Genre": "Rock",
-      "Subgenre": "Indie Rock"
+      "Website": "Indie Rock"
     },
     {
       "Number": 499,
@@ -3990,7 +3990,7 @@
       "Album": "Live in Cook County Jail",
       "Artist": "B.B. King",
       "Genre": "Blues",
-      "Subgenre": "Electric Blues"
+      "Website": "Electric Blues"
     },
     {
       "Number": 500,
@@ -3998,7 +3998,7 @@
       "Album": "Aquemini",
       "Artist": "OutKast",
       "Genre": "Hip Hop",
-      "Subgenre": "Reggae, Gangsta, Soul, Conscious"
+      "Website": "Reggae, Gangsta, Soul, Conscious"
     }
   ]
 }

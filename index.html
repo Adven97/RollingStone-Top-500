@@ -1,0 +1,122 @@
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="costam">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Jua" rel="stylesheet">
+  <style>
+    body {
+      background-color: #000;
+      color: #fff;
+      font-family: monospace;
+      font-size: 15px;
+
+    }
+    img{
+      width:1200px;
+      margin-top: 25px;
+      margin-left: 22px;
+    }
+
+    #container {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    ul{
+    list-style: none;
+    }
+
+    .nom {
+      color: Yellow;
+      font-size: 23px;
+      text-align: center;
+    }
+
+    #info-box {
+      width: 400px;
+      height: 150px;
+      margin: 7px;
+      float: left;
+    }
+    #info-box2 {
+      text-align: center;
+      width: 1100px;
+      height: 150px;
+      margin: 7px;
+      float: left;
+      margin-left: 70px;
+    }
+  </style>
+
+  <title></title>
+</head>
+
+<body>
+  <div id="container">
+      <img src="t.png" alt="RollingStone Top 500 Albums of All Time"/>
+    <p id="lista"></p>
+
+  </div>
+
+  <script>
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        // Typical action to be performed when the document is ready:
+        var response = JSON.parse(xhttp.responseText);
+        var album = response.albums;
+
+        var output = '';
+        for (i = album.length - 1; i >= 0; i--) {
+
+
+          if(i<20){
+            kolor = Math.floor(Math.random() *899999)+100000;
+            output += '<div id="info-box2" class=' + i + ' style="background:#'+kolor+'">';
+            output += '<p class="nom">' + album[i].Number + '</p>';
+            output += '<ul>';
+            output += '<li>' + album[i].Album + '</li>';
+            output += '<li>' + album[i].Artist + '</li>';
+            output += '<li>' + "Year: " + album[i].Year + '</li>';
+            output += '<li>' + "Genre: " + album[i].Genre + '</li>';
+            output += '</ul>';
+            output += '</div>';
+          }
+          else{
+            kolor = Math.floor(Math.random() *899999)+100000;
+            output += '<div id="info-box" class=' + i + ' style="background:#'+kolor+'">';
+            output += '<p class="nom">' + album[i].Number + '</p>';
+            output += '<ul>';
+            output += '<li>' + album[i].Album + '</li>';
+            output += '<li>' + album[i].Artist + '</li>';
+            output += '<li>' + "Year: " + album[i].Year + '</li>';
+            output += '<li>' + "Genre: " + album[i].Genre + '</li>';
+            output += '</ul>';
+            output += '</div>';
+
+          }
+        }
+        document.getElementById("lista").innerHTML = output;
+
+    //    for (x = album.length - 1; x >= 0; x--) {
+      //    document.getElementById("info-box" ).style.backgroundColor = "Green";
+      //  }
+
+      }
+    };
+    xhttp.open("GET", "albums500.json", true);
+    xhttp.send();
+
+    function randomColor(){
+      kolor='';
+      for(i=0; i<6;i++){
+
+      }
+      re
+    }
+  </script>
+</body>
+
+</html>

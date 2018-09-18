@@ -30,30 +30,42 @@
 
     .nom {
       color: Yellow;
-      font-size: 23px;
+      font-size: 25px;
       text-align: center;
+    }
+    .alb{
+      font-weight: bold;
+      font-size: 21px;
     }
 
     #info-box {
-
+      cursor: pointer;
       width: 360px;
-      height: 150px;
+      height: 200px;
       margin: 7px;
       float: left;
       border-radius: 12px;
     }
+    #info-box:hover{
+      transform: scale(1.03);
+    }
     #info-box2 {
+      cursor: pointer;
       text-align: center;
       width: 1100px;
       height: 150px;
       margin: 7px;
       float: left;
-      margin-left: 70px;
+      margin-left: 10px;
+      border-radius: 12px;
     }
+    #info-box2:hover{
+      transform: scale(1.07);
+    }
+
     .inside{
       margin-left: 60px;
       width: 1140px;
-      background-color: #10efb8;
     }
   </style>
 
@@ -87,7 +99,7 @@
             output += '<div id="info-box2" class=' + i + ' style="background:#'+kolor+'">';
             output += '<p class="nom">' + album[i].Number + '</p>';
             output += '<ul>';
-            output += '<li>' + album[i].Album + '</li>';
+            output += '<li class="alb">' + album[i].Album + '</li>';
             output += '<li>' + album[i].Artist + '</li>';
             output += '<li>' + "Year: " + album[i].Year + '</li>';
             output += '<li>' + "Genre: " + album[i].Genre + '</li>';
@@ -99,7 +111,7 @@
             output += '<div id="info-box" class=' + i + ' style="background:#'+kolor+'">';
             output += '<p class="nom">' + album[i].Number + '</p>';
             output += '<ul>';
-            output += '<li>' + album[i].Album + '</li>';
+            output += '<li class="alb">' + album[i].Album + '</li>';
             output += '<li>' + album[i].Artist + '</li>';
             output += '<li>' + "Year: " + album[i].Year + '</li>';
             output += '<li>' + "Genre: " + album[i].Genre + '</li>';

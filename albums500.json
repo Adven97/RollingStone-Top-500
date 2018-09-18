@@ -1493,7 +1493,7 @@
       "Year": 1986,
       "Album": "So",
       "Artist": "Peter Gabriel",
-      "Genre": "Electronic, Rock, Funk / Soul, Pop",
+      "Genre": "Electronic, Rock, Soul, Pop",
       "Subgenre": "Art Rock, Pop Rock, Synth-pop, Funk"
     },
     {
@@ -1555,10 +1555,10 @@
     {
       "Number": 195,
       "Year": 1966,
-      "Album": "Blues Breakers With Eric Clapton (\"The Beano Album\")",
+      "Album": "Blues Breakers With Eric Clapton",
       "Artist": "John Mayall & The Bluesbreakers",
-      "Genre": "Rock,�Blues",
-      "Subgenre": "Blues Rock,�Electric Blues,�Harmonica Blues"
+      "Genre": "Rock, Blues",
+      "Subgenre": "Blues Rock"
     },
     {
       "Number": 196,
@@ -1566,7 +1566,7 @@
       "Album": "Nuggets: Original Artyfacts From the First Psychedelic Era, 1965-1968",
       "Artist": "Various Artists",
       "Genre": "Rock",
-      "Subgenre": "Garage Rock,�Psychedelic Rock"
+      "Subgenre": "Garage Rock, Psychedelic Rock"
     },
     {
       "Number": 197,
@@ -1613,7 +1613,7 @@
       "Year": 1966,
       "Album": "Parsley, Sage, Rosemary and Thyme",
       "Artist": "Simon & Garfunkel",
-      "Genre": "Rock, Pop, Folk, World, & Country",
+      "Genre": "Rock, Pop, Folk & Country",
       "Subgenre": "Folk Rock, Pop Rock"
     },
     {

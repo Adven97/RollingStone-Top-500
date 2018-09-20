@@ -6,13 +6,13 @@
   <meta name="description" content="costam">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link href="https://fonts.googleapis.com/css?family=Jua" rel="stylesheet">
+  <title>RollingStone Top 500</title>
   <style>
     body {
-      background-color: #000;
+      background-color:	#080808;
       color: #fff;
       font-family: monospace;
       font-size: 15px;
-
     }
     img{
       width:1200px;
@@ -63,7 +63,7 @@ a.nv:active
     #info-box {
       cursor: pointer;
       width: 360px;
-      height: 200px;
+      height: 220px;
       margin: 7px;
       float: left;
       border-radius: 12px;
@@ -132,6 +132,7 @@ a.nv:active
           }
           else{
             kolor = Math.floor(Math.random() *899999)+100000;
+            output += '<a class="nv" href='+album[i].Website+' target="_blank">';
             output += '<div id="info-box" class=' + i + ' style="background:#'+kolor+'">';
             output += '<p class="nom">' + album[i].Number + '</p>';
             output += '<ul>';
@@ -140,7 +141,7 @@ a.nv:active
             output += '<li>' + "Year: " + album[i].Year + '</li>';
             output += '<li>' + "Genre: " + album[i].Genre + '</li>';
             output += '</ul>';
-            output += '</div>';
+            output += '</div></a>';
 
           }
         }

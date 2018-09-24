@@ -695,11 +695,291 @@ album=["a","x","x","x","x","a","x","x","x","x","y",
 
 '<iframe src="https://open.spotify.com/embed/album/2ei2X6ghPnw7YRwQtAH075" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
 
-'<iframe src="https://open.spotify.com/embed/album/6TxgQwGrbG3XZLNPOEhg7E" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>'     ##### 360
+'---------------------------------------------------------------------',     ##### 360
+
+'<iframe src="https://open.spotify.com/embed/album/2tm3Ht61kqqRZtIYsBjxEj" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2Qs2SpclDToB087fLolhCN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/mikusriekstins/playlist/0JD9c5D1rsMNz3CPdhojIl" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7IKUTIc9UWuVngyGPtqNHS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4Io5vWtmV1rFj4yirKb4y4" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/19rYWxZfMdEOxTDODFjLyb" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6cuNyrSmRjBeekioLdLkvI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/51B7LbLWgYLKBVSpkan8Z7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/45StnugV9WQMQwk4rRoTy8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3ApRy4edE6ZYi081aFpq4s" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/50Zz8CkIhATKUlQMbHO3k1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4dB2uBf7IEazBMreDVZmB2" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5SxBU3zQaLOq5eapsG3jFQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5Tpor3YZBVEJ9tWD5L31mH" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0aiTqo8YZI0dKDgcCnkkzP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3p7WXDBxhC5KS9IFXnwae7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/1283993643/playlist/3qmxI86iZaKIodaMtDLKJq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1VW1MFNstaJuygaoTPkdCk" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5eg56dCpFn32neJak2vk0f" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7a341nZsSfwyBsq1tMPETz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5SKIMMI6ilJTGOLd69Q9aM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5BPCP7WSGBG4br2o4WRmd8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/01RJdKvXyz515O37itqMIJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4YlPOh1uDMnHtDdzSdAGBM" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',     ## 384
+
+'<iframe src="https://open.spotify.com/embed/album/4BcfuxQ4EO07Y53yr6YhAJ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2OUYJtDV6EmLkVyoHSuGIp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3tQd5mwBtVyxCoEo4htGAV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1DIr8JMRBnm1cZMYIGKb8t" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4Y1isZbaqleNpbGDtP45ux" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0rRNLpdA8nA8Sm8Fk490b9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1AqUcQKtf2AQ6rFRKIBei8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0jTGHV5xqHPvEcwL8f6YU5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/23vvbZr2ZDlJNZftFAkCqO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4UY90kcO4N9ZPBl4xPLvvU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1R8kkopLT4IAxzMMkjic6X" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6gKMWnGptVs6yT2MgCxw29" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5mAPk4qeNqVLtNydaWbWlf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5LMGAYhn2ywaxGZdtmXGpw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5bbb7E51zaDCuD85uLyFkK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<---------------------------------------------------------------------------',      ##### 400!
+
+'<iframe src="https://open.spotify.com/embed/album/0fLhefnjlIV3pGNF9Wo8CD" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3kEtdS2pH6hKcMU9Wioob1" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3THuBNp86ScbTXwpTmAbdw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/15jDv2HgLoilWgd4KWaLQn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/79Kv2xKvtqXrDcY2acvqfT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2fDJpBJhtloxzUENHlU9JB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2UxN3UKyS3Z5r0Sra8A5RF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/34hQFIwGTLf03BZQmGL0iy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6v5IVMmY1IvWtbfnQoiFSf" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/185DHT5SvszXRrezx3lOjt" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/73cxqemPE6sVoCkwRuPU6E" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4WXqZZ28geJSPtqLcCF56L" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5viZ5HyYtV0wafK7DoXmgF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1L4HE00En7eNK74voVZums" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',      ### 414
+
+'<iframe src="https://open.spotify.com/embed/album/7DdEbYFPKTZ8KB4z6L4UnQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7cAcex6xw4fP67ltgn1gm3" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4YCjEFs1aDmcilTMbqMwjY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/257oomaawruFknt5wYCPDh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3539EbNgIdEDGBKkUf4wno" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/12136809144/playlist/5VQX7k4pIeIemz68xLg1Ow" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/1241508699/playlist/5TWXmOry2NY7aJqgltT5hU" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/artist/7CyeXFnOrfC1N6z4naIpgo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1FyDNWH1VRPfpJAIHpus8x" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/23vzCh5cDn0LzdGmGWrT1d" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6UQujMGmR5MbFsML9amCuN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',      ### 425
+
+'<iframe src="https://open.spotify.com/embed/album/5ttDbNMKXczvp0Z8QRgKs6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6bRT0low7Dmx61II5kKPfx" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3D9JqZG5Q1ptOJr8ZQ0j7I" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6uoeezh45SYEb8lcT8gDTY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5oXBmKbyJeQftWMo87cQ9F" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0hBWhJEmVyNPG2Jq71CJXz" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/74jn28Kr29iyh8eZXSvnwi" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4I4xtHaIFOzhZfp1NIHkY6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0TDBkNvMV4M4VUaDtQit7i" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6ohX7moZZnF1FwYrli1OJ6" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5ieP11rJQvuYz0Ov3k03cy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5BGzOpea6At0Nd7tYtYZOP" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1jkKKIpXPmCFr7m815t8th" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/glaschhall/playlist/5IZQMMbDA9lkrELzvoWv5A" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2wRH4pcI8TIQFCK1MeByWO" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7lHdDQ8qsbcNWkEYtcIiHF" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1KkMseKFaUHN3TXrXF3jHT" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2sXJQdHykPYcRQ7xFhwzMR" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4UZmpGH8kpAgyZ2yqQ8sP9" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',      ####  444
+
+'<iframe src="https://open.spotify.com/embed/album/0fjJOLqG3v7vXRYhz2wxPC" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/67NkpPGMcxoIiumOW3oRpL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/08HyQbnGbDvcZmEM5hPRrr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/28eOriEfl7IGbQDNvWIWXK" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4GDEFsTDWF1M2RTo5Z0Hfn" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/12X80pgkHSjMDgAAS0HBdr" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/097eYvf9NKjFnv4xA9s2oV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5t4FHrIAHI8nolSAOBRgPp" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2HOl8gDiGGpt7wsIDi9jy5" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6p7jHbG5Bd6z2JgfKx0um7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5dl01XDIMXrmjJ22obqfhQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',       ### 455
+
+'<iframe src="https://open.spotify.com/embed/album/0YbHA3w82FSmpyXxdXfuCv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2TpZRh7HrXYr5CzOaMHZte" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/03zfU3IwWmymKoaWnwFNaY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/jbqum4d59orfq19swn8lvrp32/playlist/7AbG24gm6mSPSmZb7XgRhm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2Rwf2nPYZQ9aIe4QXACTC7" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7HoqZkuUQEE12tl0ByOSsh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6gMv3MgFlieOM6Uz5GZBzy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2jnfTHz4rKiOXbpU88TpNS" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1ja2qzCrh6bZykcojbZs82" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2VEDC7MJmuhhEPl20kfXxG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0RHX9XECH8IVI3LNgWDpmQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',     ### 466
+
+'<iframe src="https://open.spotify.com/embed/album/5Qcef60m4gcckV24PmPYVq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/785WNIAl2zC3OZ6XHjFaIG" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7m1r9h3wfPRm3Iv8uvq9vQ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4sevefzBUFvJYAzijVBQ2a" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/34K1Kvskt9arWy8E1Gz3Lw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/user/1285121427/playlist/6Spjp9nZL0VfP84siZMpkq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6cI1XoZsOhkyrCwtuI70CN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4t1LLdXiWTfoywqricztFo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3ZAHIjLdPoEmHGMCHtoMpq" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7dRdaGSxgcBdJnrOviQRuB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/40Wi0Ej08sw9B4URIOabOI" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',    ###    477
+
+'<iframe src="https://open.spotify.com/embed/user/h.leindvb/playlist/36AIatM7pDcMJ8lCWhpj0L" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/32mkDUhwDI9JCnKLjm5RGw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7btiyhWzUfzxN3ijSiBpC8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2lO9yuuIDgBpSJzxTh3ai8" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/34VYeBzcQUwEPEDpH8WyMV" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/1UMvR1rwj9EzLnbj4L6Zoy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4bb41g9yq32jbAtT5dMQeo" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5pd9B3KQWKshHw4lnsSLNy" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5tXZfxvr2VaWibD74nw8VL" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',     ### 486
+
+'<iframe src="https://open.spotify.com/embed/album/1FvdZ1oizXwF9bxogujoF0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/2eOu9QDLP2MoO04ZtII2Vm" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/59plsPcJYFlSA5ImekNQJ0" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0Em8m9kRctyH9S3MTXAHvY" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/67I17xxxioQjnisRNmuSPE" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4pGwe5BW8GVtIP8ruoa1jB" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0rPtXOMN42nsLDiShvGamv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6mm1Skz3JE6AXneya9Nyiv" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/6ry5iI1ik4H2DvoiWhluYh" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/4i1GgeitxAC8fy48Cwcl54" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/7rIhZOxiuEieQylkZt50TN" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/0um9FI6BLBldL5POP4D4Cw" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/3mCS3cMduOlki845XA4gDZ" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>',
+
+'<iframe src="https://open.spotify.com/embed/album/5ceB3rxgXqIRpsOvVzTG28" width="300" height="380" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>'
 
 ]
 
-for x in range(261,361):
+for x in range(401,501):
     site=str(x)+".html"
     f=open(site,"w+")
     content="""

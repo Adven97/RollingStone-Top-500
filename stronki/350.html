@@ -1,0 +1,113 @@
+
+<!DOCTYPE html>
+<html lang="pl">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="description" content="costam">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://fonts.googleapis.com/css?family=Jua" rel="stylesheet">
+  <title>RollingStone Top 500</title>
+  <style>
+    body {
+      background-color: #181818;
+      color: #fff;
+      font-family: monospace;
+      font-size: 16px;
+    }
+    .imgagee{
+      width:400px;
+      margin-top: 55px;
+      margin-left: 66px;
+      float: left;
+    }
+    img{
+      border-radius: 12px;
+      width: 385px;
+      height: auto;
+    }
+
+    #container {
+      margin-left: auto;
+      margin-right: auto;
+    }
+    ul{
+    list-style: none;
+    }
+
+    .alb{
+      font-weight: bold;
+      font-size: 23px;
+    }
+
+    #info-box {
+      width: 400px;
+      height: 150px;
+      float: left;
+      border-radius: 12px;
+    }
+
+
+    .inside{
+      margin-top: 35px;
+      margin-left: 120px;
+      width: 1140px;
+    }
+    iframe{
+    float: right;
+    margin-right: 120px;
+    margin-top: 0px;
+    }
+
+  </style>
+
+  <title></title>
+</head>
+
+<body>
+  <div id="container">
+
+    <div class="inside">
+      <div class="imagee"><img src="img/350.jpg" alt="RollingStone Top 500 Albums of All Time"/>
+
+          <iframe src="https://open.spotify.com/embed/album/3s6wTRMDispMa4gCd26FPc" width="460" height="510" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+        </div>
+
+    <p id="lista"></p>
+    </div>
+
+  </div>
+
+  <script>
+    var xhttp = new XMLHttpRequest();
+    xhttp.onreadystatechange = function() {
+      if (this.readyState == 4 && this.status == 200) {
+        // Typical action to be performed when the document is ready:
+        var response = JSON.parse(xhttp.responseText);
+        var album = response.albums;
+
+        var output = '';
+
+            output += '<div id="info-box" >';
+            output += '<ul>';
+            output += '<li class="alb">' + album[349].Album + '</li>';
+            output +='<br>';
+            output += '<li>' + album[349].Artist + '</li>';
+            output += '<li>' + "Year: " + album[349].Year + '</li>';
+            output += '<li>' + "Genre: " + album[349].Genre + '</li>';
+            output += '</ul>';
+            output += '</div>';
+
+        document.getElementById("lista").innerHTML = output;
+
+      }
+    };
+    xhttp.open("GET", "albums500.json", true);
+    xhttp.send();
+
+  </script>
+</body>
+
+</html>
+
+                
